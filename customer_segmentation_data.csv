@@ -1,0 +1,2001 @@
+Customer_ID,Sex,Marital_Status,Age,Education,Income,Occupation,Spending_Score
+DS-52235638-N,Female,Married,57,Master's,115505,Retired,14
+DS-75952450-N,Male,Divorced,25,High School,40472,White-Collar,65
+DS-59303085-N,Female,Married,33,Bachelor's,42501,Self-Employed,49
+DS-15738597-N,Male,Married,35,High School,27035,Unemployed,26
+DS-76036595-N,Male,Married,41,Bachelor's,109458,White-Collar,99
+DS-73059094-N,Female,Married,62,Master's,99046,Manager,31
+DS-63037160-N,Female,Married,45,PhD,117961,Manager,91
+DS-89597862-N,Female,Single,30,PhD,22981,White-Collar,26
+DS-61169079-N,Female,Married,54,Master's,68980,Self-Employed,32
+DS-30737293-N,Male,Single,44,Master's,26473,Unemployed,9
+DS-50346274-N,Female,Single,18,Some College,30790,White-Collar,81
+DS-22855546-N,Male,Single,34,Some College,12790,Student,30
+DS-62067353-N,Male,Married,29,PhD,14836,Blue-Collar,23
+DS-79827262-N,Male,Divorced,24,Some College,35088,Blue-Collar,78
+DS-79371051-N,Female,Married,45,Master's,73006,Self-Employed,29
+DS-35362531-N,Male,Married,51,Bachelor's,114723,Manager,95
+DS-41227124-N,Female,Married,43,Bachelor's,83720,Manager,79
+DS-32467845-N,Male,Single,48,Master's,37760,Manager,11
+DS-25346892-N,Female,Divorced,24,Bachelor's,46735,Self-Employed,81
+DS-16149828-N,Male,Single,29,Bachelor's,67434,White-Collar,64
+DS-21341994-N,Female,Divorced,22,Master's,26265,Unemployed,94
+DS-39061309-N,Female,Married,31,PhD,78252,Manager,91
+DS-63514511-N,Male,Single,29,Master's,63095,Self-Employed,57
+DS-87599175-N,Male,Married,30,Bachelor's,47412,Manager,65
+DS-91454770-N,Male,Single,31,Master's,43256,Student,73
+DS-27830076-N,Female,Divorced,28,Master's,29255,Self-Employed,87
+DS-16048600-N,Male,Married,26,Bachelor's,59520,White-Collar,48
+DS-32970424-N,Male,Divorced,33,Bachelor's,25272,Student,61
+DS-51189790-N,Female,Married,41,Master's,59417,White-Collar,64
+DS-46698591-N,Female,Married,70,Master's,64578,Self-Employed,22
+DS-16812916-N,Male,Single,27,Some College,22499,Blue-Collar,26
+DS-86524360-N,Male,Divorced,22,High School,42309,Unemployed,84
+DS-71501004-N,Female,Married,36,Bachelor's,37697,Manager,65
+DS-36798896-N,Female,Divorced,23,Some College,34498,Self-Employed,77
+DS-83204995-N,Female,Married,55,Bachelor's,104570,Manager,86
+DS-67756094-N,Male,Married,59,High School,75526,Blue-Collar,40
+DS-35130241-N,Male,Divorced,66,Master's,72867,Self-Employed,38
+DS-52729830-N,Male,Single,28,Some College,23839,Blue-Collar,72
+DS-17991392-N,Male,Divorced,25,Bachelor's,28669,Manager,84
+DS-81452015-N,Male,Married,45,PhD,100863,Self-Employed,24
+DS-88844531-N,Male,Married,35,Master's,62289,White-Collar,45
+DS-96449335-N,Male,Single,33,Bachelor's,61979,Self-Employed,39
+DS-98351688-N,Male,Single,22,Some College,17548,Manager,21
+DS-87913180-N,Male,Divorced,26,High School,28999,Unemployed,67
+DS-59453986-N,Male,Divorced,21,High School,38994,Student,70
+DS-19018639-N,Male,Divorced,29,Bachelor's,37894,Manager,96
+DS-91766216-N,Female,Divorced,18,High School,38080,Unemployed,72
+DS-22867173-N,Male,Widowed,33,Some College,25749,Manager,24
+DS-24644093-N,Male,Divorced,38,Some College,78436,Self-Employed,60
+DS-31626468-N,Male,Divorced,20,Some College,35171,White-Collar,82
+DS-21977720-N,Male,Widowed,45,Some College,26729,Blue-Collar,13
+DS-17074109-N,Male,Married,36,High School,51175,White-Collar,32
+DS-18027578-N,Male,Married,46,Master's,98498,Manager,89
+DS-23319329-N,Male,Widowed,65,Some College,88397,White-Collar,41
+DS-70017391-N,Male,Married,41,High School,30386,Blue-Collar,14
+DS-96741330-N,Female,Married,33,Bachelor's,41518,Manager,52
+DS-26582353-N,Female,Married,30,High School,18451,Unemployed,30
+DS-20660071-N,Female,Single,22,Master's,37259,Self-Employed,69
+DS-33142081-N,Male,Married,65,Some College,90503,White-Collar,26
+DS-71670298-N,Female,Married,39,High School,82586,Self-Employed,82
+DS-85734613-N,Male,Divorced,31,Some College,67337,White-Collar,43
+DS-12094973-N,Female,Single,30,High School,27180,Unemployed,9
+DS-61156766-N,Female,Divorced,57,Bachelor's,91529,Retired,29
+DS-54576545-N,Female,Divorced,33,High School,23979,Blue-Collar,28
+DS-11720186-N,Male,Married,43,Bachelor's,74651,Manager,85
+DS-17913819-N,Male,Married,55,Master's,114274,Retired,44
+DS-30636184-N,Female,Divorced,59,Bachelor's,130000,Manager,31
+DS-55014645-N,Male,Married,64,Some College,71603,Manager,34
+DS-51909399-N,Female,Single,25,Some College,23751,Blue-Collar,14
+DS-97197490-N,Female,Divorced,18,PhD,35896,White-Collar,71
+DS-33222323-N,Female,Married,32,Some College,83559,Manager,75
+DS-47021626-N,Female,Divorced,35,Bachelor's,37531,Blue-Collar,46
+DS-39171772-N,Female,Divorced,59,Bachelor's,56732,Manager,22
+DS-68092524-N,Male,Divorced,28,Bachelor's,34723,Blue-Collar,84
+DS-46852031-N,Female,Married,53,Bachelor's,82537,White-Collar,43
+DS-26964110-N,Male,Married,54,Master's,97048,Self-Employed,79
+DS-31198746-N,Male,Single,37,Master's,117390,Self-Employed,79
+DS-44434060-N,Female,Married,71,High School,80066,Self-Employed,38
+DS-98645401-N,Female,Married,40,PhD,112006,Self-Employed,86
+DS-80961979-N,Female,Married,44,Master's,71436,White-Collar,72
+DS-53450102-N,Female,Married,37,Some College,27147,Blue-Collar,29
+DS-63327332-N,Male,Widowed,37,Some College,22433,Student,25
+DS-82654271-N,Female,Married,33,Master's,58383,White-Collar,42
+DS-70706560-N,Male,Divorced,37,Master's,111140,White-Collar,82
+DS-95522093-N,Female,Divorced,59,Bachelor's,84752,White-Collar,40
+DS-53937494-N,Female,Married,69,Some College,74881,White-Collar,43
+DS-48259454-N,Male,Divorced,30,Some College,21349,White-Collar,37
+DS-10092924-N,Female,Divorced,29,Bachelor's,21023,White-Collar,17
+DS-99625148-N,Male,Single,22,Master's,21196,Blue-Collar,17
+DS-61479202-N,Male,Married,50,Some College,85993,Self-Employed,67
+DS-86634308-N,Male,Married,33,Master's,41179,Manager,47
+DS-97022284-N,Female,Married,41,Bachelor's,107162,Manager,88
+DS-81508562-N,Female,Single,20,Bachelor's,31402,Student,67
+DS-91024934-N,Female,Married,43,Master's,102630,Self-Employed,69
+DS-24443370-N,Male,Married,32,Bachelor's,51739,Manager,55
+DS-15533466-N,Female,Single,31,High School,22170,Blue-Collar,23
+DS-17400371-N,Male,Married,54,PhD,73665,Self-Employed,20
+DS-27034364-N,Female,Single,35,Master's,101592,White-Collar,88
+DS-59660687-N,Female,Single,22,Some College,22237,Unemployed,19
+DS-90139460-N,Female,Widowed,64,High School,106508,Retired,21
+DS-81609780-N,Male,Married,48,Bachelor's,93194,Manager,64
+DS-48295612-N,Female,Divorced,29,Some College,56029,Manager,30
+DS-67668340-N,Male,Divorced,30,High School,52993,Self-Employed,55
+DS-79573170-N,Male,Single,20,High School,28060,Student,56
+DS-40936357-N,Male,Married,47,Master's,106052,Manager,79
+DS-78318418-N,Female,Married,40,Bachelor's,90847,Manager,84
+DS-18801762-N,Male,Single,44,Bachelor's,27721,Blue-Collar,9
+DS-83866171-N,Female,Married,42,High School,65230,Blue-Collar,68
+DS-54628277-N,Male,Single,29,Bachelor's,63761,White-Collar,44
+DS-14944527-N,Female,Single,23,Bachelor's,39723,White-Collar,66
+DS-36346820-N,Male,Married,66,Master's,99736,Retired,21
+DS-28659900-N,Male,Divorced,21,Some College,48168,Student,63
+DS-59579853-N,Male,Married,53,High School,60341,Manager,36
+DS-24073004-N,Male,Married,40,Some College,142896,Manager,84
+DS-83306756-N,Female,Single,22,Some College,17107,Blue-Collar,45
+DS-23498185-N,Male,Single,27,High School,21092,Blue-Collar,5
+DS-39146049-N,Female,Married,35,Bachelor's,98697,White-Collar,85
+DS-94697738-N,Female,Married,55,Bachelor's,69743,Retired,31
+DS-11820459-N,Female,Single,37,Bachelor's,70737,Blue-Collar,56
+DS-24137045-N,Female,Married,33,Bachelor's,72164,Manager,90
+DS-81311112-N,Male,Single,23,Bachelor's,42024,Student,81
+DS-93880366-N,Male,Divorced,21,Some College,20132,Student,72
+DS-47340102-N,Male,Widowed,33,Some College,28033,Blue-Collar,8
+DS-48506936-N,Male,Married,43,Bachelor's,94176,White-Collar,84
+DS-77936149-N,Female,Divorced,51,High School,90165,Self-Employed,91
+DS-17751094-N,Male,Married,41,Some College,117667,Manager,70
+DS-77667433-N,Female,Married,33,Master's,50193,Self-Employed,70
+DS-75132495-N,Male,Single,38,High School,23382,Unemployed,22
+DS-52339648-N,Male,Married,48,Some College,71789,Manager,29
+DS-62742219-N,Female,Single,51,High School,23476,Manager,15
+DS-71443553-N,Female,Widowed,48,Bachelor's,81089,Manager,83
+DS-24301676-N,Male,Single,41,Some College,22997,Unemployed,26
+DS-30562785-N,Male,Widowed,61,PhD,106804,Blue-Collar,50
+DS-69288702-N,Male,Married,55,Bachelor's,65956,Self-Employed,41
+DS-13179472-N,Female,Single,30,Some College,57385,White-Collar,39
+DS-71147509-N,Male,Married,60,Bachelor's,90923,Self-Employed,48
+DS-81512556-N,Female,Married,47,Master's,87754,Manager,83
+DS-76395900-N,Male,Married,42,High School,55870,White-Collar,41
+DS-68388417-N,Female,Married,60,Some College,84526,White-Collar,26
+DS-32858890-N,Male,Married,28,High School,18404,Student,40
+DS-90474633-N,Male,Married,32,High School,44915,Self-Employed,31
+DS-73723089-N,Female,Married,49,PhD,105097,Self-Employed,80
+DS-28903947-N,Male,Single,31,Master's,86859,Manager,75
+DS-71056927-N,Female,Married,41,Master's,105621,Self-Employed,89
+DS-66178220-N,Male,Married,30,Some College,10048,White-Collar,18
+DS-80441191-N,Female,Married,60,Some College,125208,Retired,9
+DS-97938288-N,Male,Divorced,26,Master's,42581,Unemployed,88
+DS-26041583-N,Male,Married,43,Master's,71661,Manager,84
+DS-88920254-N,Female,Married,37,PhD,123099,Manager,90
+DS-38780613-N,Female,Married,45,Bachelor's,61076,Blue-Collar,42
+DS-87835717-N,Male,Married,48,Bachelor's,85268,White-Collar,29
+DS-70835307-N,Female,Divorced,31,Some College,21381,Blue-Collar,18
+DS-56965491-N,Male,Single,34,Bachelor's,34253,Manager,51
+DS-32148947-N,Female,Married,65,Master's,84487,Self-Employed,38
+DS-91897245-N,Male,Married,32,Bachelor's,60911,White-Collar,50
+DS-77817161-N,Male,Single,28,Some College,36671,Blue-Collar,75
+DS-24120960-N,Male,Widowed,49,Some College,110523,Manager,46
+DS-97838840-N,Female,Married,40,Master's,100510,White-Collar,89
+DS-70136100-N,Female,Married,38,Master's,51631,Manager,43
+DS-52039004-N,Female,Married,68,Bachelor's,74057,Manager,25
+DS-67444971-N,Female,Single,31,Some College,27008,Student,34
+DS-36633592-N,Female,Married,45,Bachelor's,101275,Manager,93
+DS-98252734-N,Female,Divorced,25,Some College,34490,Self-Employed,69
+DS-98607652-N,Female,Single,29,Some College,16814,White-Collar,27
+DS-25703861-N,Male,Divorced,22,Some College,23133,Unemployed,16
+DS-31276455-N,Male,Single,37,Bachelor's,56306,Self-Employed,50
+DS-44850282-N,Female,Single,23,High School,29723,Student,69
+DS-38948701-N,Female,Married,39,Master's,56259,Manager,60
+DS-85516933-N,Female,Single,25,Bachelor's,24321,Blue-Collar,17
+DS-47275208-N,Male,Single,36,Some College,29144,Blue-Collar,8
+DS-54482476-N,Female,Divorced,22,Bachelor's,38352,Unemployed,81
+DS-95417960-N,Male,Married,46,Some College,74113,Self-Employed,25
+DS-48874884-N,Male,Single,21,High School,33505,Blue-Collar,81
+DS-46761548-N,Female,Married,27,Master's,53247,Self-Employed,55
+DS-26594564-N,Female,Divorced,25,Some College,52187,Student,71
+DS-89798864-N,Female,Single,47,Master's,65000,Manager,73
+DS-51830201-N,Male,Married,41,Master's,83113,Manager,79
+DS-62684245-N,Female,Single,39,High School,14184,Blue-Collar,11
+DS-72073954-N,Male,Single,24,Some College,43255,Blue-Collar,78
+DS-22191248-N,Female,Married,47,Bachelor's,74605,Manager,27
+DS-39031293-N,Male,Married,55,PhD,86536,White-Collar,83
+DS-13044533-N,Male,Married,29,High School,71238,Unemployed,55
+DS-21086425-N,Male,Married,52,Master's,73021,White-Collar,23
+DS-23005233-N,Female,Widowed,34,Bachelor's,95511,Self-Employed,75
+DS-23087562-N,Male,Married,54,Master's,70885,Manager,83
+DS-61064574-N,Male,Widowed,49,Bachelor's,85146,Manager,73
+DS-24466965-N,Male,Single,36,High School,19654,Unemployed,13
+DS-51708275-N,Male,Divorced,49,Bachelor's,100544,Self-Employed,81
+DS-41051662-N,Female,Single,33,Some College,59002,Self-Employed,54
+DS-93575136-N,Male,Married,25,High School,61841,White-Collar,43
+DS-17871182-N,Male,Married,50,Bachelor's,70986,Manager,75
+DS-93514177-N,Female,Married,37,Master's,85056,Self-Employed,70
+DS-87480940-N,Male,Married,36,High School,54200,Self-Employed,54
+DS-52608926-N,Male,Widowed,62,Bachelor's,69966,White-Collar,23
+DS-80739069-N,Male,Single,30,Master's,17322,Blue-Collar,20
+DS-40158832-N,Male,Married,34,Master's,60042,White-Collar,54
+DS-24177671-N,Female,Married,32,High School,45235,Manager,51
+DS-51493706-N,Female,Married,35,Bachelor's,52650,White-Collar,43
+DS-45643796-N,Female,Married,28,Master's,51120,Manager,50
+DS-60499044-N,Female,Single,30,Master's,49860,Manager,40
+DS-66301074-N,Female,Married,50,High School,63484,Retired,38
+DS-58617871-N,Female,Divorced,38,Master's,60016,Self-Employed,54
+DS-55950592-N,Female,Divorced,27,PhD,35609,Unemployed,75
+DS-96691663-N,Male,Single,32,Bachelor's,67920,Manager,44
+DS-49718046-N,Female,Married,34,PhD,40930,White-Collar,47
+DS-56094090-N,Female,Married,54,Master's,63993,Self-Employed,37
+DS-46879462-N,Male,Married,48,Bachelor's,72587,White-Collar,29
+DS-36061366-N,Male,Single,24,High School,23115,Unemployed,26
+DS-37890767-N,Female,Married,53,Bachelor's,77018,Manager,28
+DS-46294280-N,Male,Married,37,Bachelor's,82846,Manager,83
+DS-60933064-N,Male,Married,42,High School,99632,White-Collar,95
+DS-69349395-N,Male,Married,44,Master's,122065,Manager,80
+DS-98285424-N,Male,Married,54,Some College,61846,Retired,8
+DS-75345727-N,Male,Married,32,Bachelor's,55343,Blue-Collar,53
+DS-80846059-N,Female,Married,60,High School,64370,Self-Employed,33
+DS-78854924-N,Female,Widowed,63,Some College,79297,Self-Employed,23
+DS-30710265-N,Male,Divorced,26,Bachelor's,18187,Blue-Collar,31
+DS-96611699-N,Male,Single,29,Bachelor's,46436,White-Collar,45
+DS-67170889-N,Female,Divorced,27,Bachelor's,35513,Unemployed,65
+DS-73611726-N,Female,Single,31,Some College,25406,White-Collar,11
+DS-68096980-N,Male,Married,49,Bachelor's,76093,Manager,24
+DS-97476854-N,Female,Divorced,60,Bachelor's,87004,Manager,27
+DS-65189852-N,Male,Divorced,26,Bachelor's,44795,Self-Employed,87
+DS-21326945-N,Male,Married,29,Master's,51567,White-Collar,31
+DS-94974467-N,Female,Married,32,High School,51540,White-Collar,60
+DS-24166289-N,Female,Single,18,Master's,30626,White-Collar,78
+DS-42935697-N,Female,Single,24,Bachelor's,49526,Manager,71
+DS-10712386-N,Male,Married,43,Bachelor's,122007,Self-Employed,91
+DS-34634106-N,Male,Married,32,Bachelor's,113938,White-Collar,77
+DS-48908884-N,Female,Single,31,Some College,27029,Manager,11
+DS-36131315-N,Male,Married,35,Bachelor's,50080,White-Collar,65
+DS-72271108-N,Male,Divorced,43,High School,16027,Student,24
+DS-60073861-N,Male,Married,48,Master's,67477,White-Collar,18
+DS-69341309-N,Male,Married,40,Bachelor's,62031,White-Collar,57
+DS-12046003-N,Male,Married,32,Bachelor's,44577,White-Collar,57
+DS-75580727-N,Female,Divorced,60,Bachelor's,87088,Self-Employed,8
+DS-74129108-N,Female,Married,43,Master's,94770,White-Collar,86
+DS-98433881-N,Female,Married,27,Bachelor's,51602,Self-Employed,54
+DS-70415958-N,Female,Married,58,Some College,130000,Blue-Collar,11
+DS-44748312-N,Male,Married,36,Bachelor's,36072,Manager,55
+DS-35494146-N,Male,Married,26,Bachelor's,68909,White-Collar,38
+DS-87343407-N,Female,Single,27,High School,22552,Blue-Collar,16
+DS-71917765-N,Male,Married,41,Bachelor's,99202,Manager,75
+DS-26476077-N,Male,Single,25,Some College,20718,Blue-Collar,17
+DS-53137615-N,Male,Married,62,Some College,105192,Retired,14
+DS-69274813-N,Female,Divorced,28,Bachelor's,31253,Self-Employed,91
+DS-25293004-N,Male,Married,25,Some College,11622,White-Collar,21
+DS-85264331-N,Female,Married,60,Bachelor's,101550,Retired,14
+DS-84332433-N,Male,Single,26,Some College,28157,Blue-Collar,78
+DS-43538121-N,Female,Single,47,Master's,109296,Manager,86
+DS-57553739-N,Male,Single,27,Bachelor's,19053,Blue-Collar,17
+DS-52159852-N,Male,Divorced,38,Bachelor's,17159,Self-Employed,19
+DS-62595868-N,Male,Single,25,High School,20000,Self-Employed,24
+DS-63742015-N,Female,Married,38,Some College,106131,White-Collar,84
+DS-53969182-N,Male,Single,38,Some College,20656,Self-Employed,5
+DS-11554896-N,Female,Married,51,Bachelor's,90750,Retired,18
+DS-25981481-N,Female,Divorced,19,Master's,24261,Student,90
+DS-65082898-N,Female,Single,53,Some College,21092,Blue-Collar,21
+DS-76571126-N,Female,Single,40,Master's,23328,Blue-Collar,27
+DS-59167616-N,Male,Married,38,Some College,14275,White-Collar,17
+DS-89124819-N,Female,Married,31,Bachelor's,57561,White-Collar,63
+DS-55502106-N,Male,Single,35,Master's,18265,Student,30
+DS-62445828-N,Female,Married,42,Bachelor's,99028,White-Collar,94
+DS-50003471-N,Female,Divorced,57,Bachelor's,80940,Blue-Collar,17
+DS-72494830-N,Female,Married,29,Bachelor's,48827,Self-Employed,53
+DS-61094621-N,Male,Single,33,Some College,15679,Self-Employed,26
+DS-24980009-N,Female,Married,35,Some College,45015,White-Collar,68
+DS-55622815-N,Male,Divorced,20,Some College,31078,Blue-Collar,85
+DS-43055871-N,Male,Single,27,High School,62093,Unemployed,52
+DS-31627977-N,Male,Married,45,Bachelor's,112785,Manager,87
+DS-80187027-N,Male,Married,47,Some College,106584,Retired,16
+DS-27186806-N,Male,Married,40,Bachelor's,29640,Blue-Collar,29
+DS-75684686-N,Male,Married,57,High School,89004,Retired,22
+DS-12751732-N,Female,Married,38,Bachelor's,103795,Manager,91
+DS-58986831-N,Male,Married,22,High School,28555,White-Collar,19
+DS-64894364-N,Male,Single,36,Master's,20483,Student,20
+DS-39127667-N,Female,Married,45,Master's,88247,Manager,18
+DS-49577875-N,Female,Divorced,19,High School,31328,Unemployed,82
+DS-33539363-N,Male,Single,24,Master's,37051,Manager,70
+DS-91387239-N,Male,Married,31,High School,52722,Self-Employed,59
+DS-69657054-N,Female,Married,59,Master's,89958,White-Collar,16
+DS-38595751-N,Female,Divorced,59,Bachelor's,80430,Blue-Collar,24
+DS-47308469-N,Female,Married,37,PhD,91543,Self-Employed,74
+DS-52423215-N,Male,Married,43,PhD,91214,Manager,79
+DS-69811633-N,Male,Married,33,Bachelor's,65000,White-Collar,77
+DS-42695632-N,Female,Married,29,Master's,70681,Self-Employed,66
+DS-69938673-N,Female,Widowed,31,Bachelor's,25782,Blue-Collar,9
+DS-58667444-N,Male,Single,25,Bachelor's,37425,White-Collar,71
+DS-46278938-N,Female,Single,44,Some College,84424,Self-Employed,81
+DS-17788891-N,Male,Married,63,Bachelor's,63507,White-Collar,41
+DS-88974357-N,Female,Married,45,Master's,75863,Self-Employed,19
+DS-74735549-N,Female,Single,22,High School,10000,Self-Employed,27
+DS-33504206-N,Male,Married,36,Bachelor's,50258,White-Collar,44
+DS-98258329-N,Female,Single,22,Bachelor's,32555,Student,74
+DS-65905177-N,Male,Married,50,Bachelor's,74963,Retired,18
+DS-20458636-N,Male,Divorced,21,High School,30638,Self-Employed,72
+DS-54297352-N,Female,Divorced,25,Bachelor's,32246,Blue-Collar,78
+DS-18430403-N,Male,Married,52,Some College,89005,Self-Employed,83
+DS-22012610-N,Male,Married,64,Bachelor's,52176,Manager,43
+DS-68410823-N,Male,Married,27,Master's,63205,White-Collar,53
+DS-30951673-N,Female,Single,18,Bachelor's,38083,White-Collar,77
+DS-30919089-N,Male,Divorced,32,Master's,55795,Self-Employed,59
+DS-62228883-N,Female,Divorced,20,Bachelor's,30962,White-Collar,85
+DS-15578262-N,Female,Single,32,High School,15604,Blue-Collar,26
+DS-51943661-N,Female,Married,26,Master's,62241,Blue-Collar,64
+DS-20928605-N,Male,Single,41,Master's,86775,Self-Employed,83
+DS-77301197-N,Female,Married,31,High School,84836,White-Collar,91
+DS-59193649-N,Male,Married,30,Some College,59158,Manager,58
+DS-77049430-N,Male,Single,18,Some College,45706,Unemployed,76
+DS-11895100-N,Female,Married,36,Bachelor's,26726,Student,26
+DS-42021523-N,Female,Single,23,Some College,31340,Self-Employed,88
+DS-20444224-N,Female,Single,29,High School,23116,White-Collar,6
+DS-19077851-N,Male,Divorced,18,Some College,31874,White-Collar,86
+DS-61076598-N,Male,Divorced,21,Bachelor's,39426,Student,87
+DS-98355795-N,Male,Single,41,Bachelor's,18606,White-Collar,19
+DS-90802795-N,Female,Widowed,66,Some College,75870,Manager,27
+DS-94285450-N,Male,Divorced,29,Some College,22946,Blue-Collar,24
+DS-13896969-N,Female,Married,25,Master's,54779,Unemployed,63
+DS-56948103-N,Male,Married,64,Bachelor's,70108,Manager,26
+DS-91241056-N,Male,Single,36,High School,20871,Blue-Collar,34
+DS-97612540-N,Male,Divorced,31,High School,39087,Unemployed,74
+DS-70084179-N,Female,Married,66,Master's,83826,Blue-Collar,38
+DS-79126730-N,Female,Divorced,39,Some College,46476,White-Collar,56
+DS-41190707-N,Female,Single,19,High School,37118,Student,70
+DS-37698817-N,Female,Divorced,34,Some College,51161,Self-Employed,54
+DS-18711900-N,Female,Married,45,PhD,103729,Retired,28
+DS-38811874-N,Male,Married,51,PhD,109324,Self-Employed,22
+DS-47848380-N,Female,Married,32,High School,49259,Blue-Collar,49
+DS-50497814-N,Female,Single,37,Bachelor's,88860,White-Collar,77
+DS-74897561-N,Male,Divorced,46,Bachelor's,94711,Manager,79
+DS-27326935-N,Male,Married,39,Some College,57104,White-Collar,50
+DS-41067640-N,Female,Married,34,Bachelor's,45820,White-Collar,69
+DS-49559420-N,Male,Divorced,31,High School,18538,Unemployed,5
+DS-56807862-N,Female,Divorced,35,Master's,22365,Blue-Collar,20
+DS-44124987-N,Female,Married,35,Master's,101424,Self-Employed,80
+DS-53088332-N,Female,Divorced,33,Bachelor's,55618,Blue-Collar,42
+DS-22184794-N,Male,Single,31,Some College,61879,Blue-Collar,45
+DS-22355961-N,Female,Single,27,Bachelor's,30431,Unemployed,73
+DS-70219032-N,Female,Married,33,Bachelor's,54636,White-Collar,53
+DS-90818410-N,Male,Divorced,44,Bachelor's,120117,Manager,81
+DS-36644945-N,Male,Married,57,Bachelor's,85901,White-Collar,28
+DS-15452363-N,Female,Married,65,Some College,121760,White-Collar,29
+DS-85767787-N,Female,Divorced,28,Some College,27409,Unemployed,9
+DS-16178090-N,Male,Married,28,Bachelor's,32920,Blue-Collar,27
+DS-70878378-N,Male,Widowed,37,Bachelor's,19377,Blue-Collar,34
+DS-82590159-N,Female,Divorced,27,High School,25712,Blue-Collar,16
+DS-37385138-N,Male,Married,45,Some College,20014,White-Collar,12
+DS-46347366-N,Male,Married,30,Master's,85000,Manager,65
+DS-70340101-N,Female,Divorced,21,Bachelor's,25140,Blue-Collar,62
+DS-82969788-N,Male,Single,24,Bachelor's,35319,White-Collar,71
+DS-31213647-N,Male,Married,61,Bachelor's,75182,Manager,36
+DS-77620697-N,Female,Married,25,Some College,53480,White-Collar,62
+DS-26940644-N,Male,Divorced,26,High School,30984,Student,77
+DS-95328004-N,Female,Single,36,Some College,36265,White-Collar,58
+DS-12890104-N,Female,Married,49,Some College,68321,White-Collar,84
+DS-40410902-N,Male,Divorced,19,High School,24321,Unemployed,71
+DS-22936412-N,Female,Married,32,Master's,65600,Blue-Collar,51
+DS-38848884-N,Female,Single,35,Some College,17125,Blue-Collar,27
+DS-34661664-N,Male,Single,19,High School,42999,Self-Employed,85
+DS-98619083-N,Female,Divorced,33,Some College,16115,Student,38
+DS-23574489-N,Male,Single,25,Bachelor's,39255,White-Collar,79
+DS-25275502-N,Male,Married,30,Master's,125843,Manager,73
+DS-24491415-N,Male,Single,21,Bachelor's,27910,Blue-Collar,81
+DS-61494057-N,Male,Divorced,29,Some College,35326,White-Collar,51
+DS-65550626-N,Female,Married,22,Some College,30148,Self-Employed,18
+DS-44716672-N,Male,Divorced,28,High School,22822,White-Collar,74
+DS-26829152-N,Male,Widowed,53,Bachelor's,84556,White-Collar,36
+DS-36603993-N,Female,Divorced,28,Bachelor's,43722,White-Collar,57
+DS-67465742-N,Male,Married,39,Bachelor's,75109,Manager,78
+DS-80039230-N,Male,Married,26,PhD,57113,White-Collar,62
+DS-68047088-N,Male,Single,23,Bachelor's,43209,Blue-Collar,83
+DS-22027354-N,Male,Single,36,High School,22880,Unemployed,15
+DS-15682211-N,Male,Widowed,48,Bachelor's,105730,Manager,87
+DS-85573097-N,Male,Married,28,Some College,55073,Self-Employed,37
+DS-42197661-N,Female,Married,55,PhD,82944,White-Collar,95
+DS-57359927-N,Male,Single,29,High School,22136,Blue-Collar,21
+DS-56762609-N,Female,Divorced,26,Some College,34853,White-Collar,79
+DS-21863107-N,Female,Married,66,High School,82417,Blue-Collar,28
+DS-81284128-N,Female,Married,53,Master's,93010,Retired,74
+DS-85643375-N,Male,Married,45,Some College,125862,White-Collar,82
+DS-97591555-N,Male,Divorced,37,Master's,20796,Blue-Collar,22
+DS-72502993-N,Female,Married,43,Master's,114763,White-Collar,73
+DS-18315410-N,Female,Divorced,49,Some College,49627,Manager,10
+DS-99921360-N,Male,Married,55,Bachelor's,64905,White-Collar,19
+DS-76393319-N,Female,Married,28,Bachelor's,61723,Unemployed,53
+DS-84994418-N,Male,Divorced,48,Bachelor's,85915,Self-Employed,96
+DS-33180988-N,Female,Widowed,65,Bachelor's,73226,Retired,28
+DS-18394744-N,Female,Married,40,PhD,62335,Self-Employed,52
+DS-44482824-N,Female,Single,22,Bachelor's,24477,Blue-Collar,75
+DS-96248642-N,Male,Married,54,Bachelor's,95472,Self-Employed,24
+DS-47559677-N,Female,Married,36,Some College,78943,Unemployed,70
+DS-12170268-N,Female,Divorced,32,Master's,25654,Blue-Collar,16
+DS-74256522-N,Female,Single,18,Bachelor's,39107,Blue-Collar,99
+DS-36409567-N,Female,Single,39,High School,24574,Blue-Collar,29
+DS-99851411-N,Female,Married,31,Bachelor's,69527,Self-Employed,67
+DS-44413584-N,Male,Divorced,25,Bachelor's,48203,White-Collar,79
+DS-58848529-N,Female,Married,43,High School,26713,Unemployed,26
+DS-93183825-N,Female,Married,29,Master's,46936,Blue-Collar,52
+DS-10269090-N,Female,Single,29,High School,24948,Unemployed,89
+DS-71873136-N,Female,Divorced,18,Bachelor's,31833,Blue-Collar,53
+DS-94437508-N,Female,Divorced,31,Bachelor's,41652,White-Collar,72
+DS-59179853-N,Male,Married,68,Bachelor's,93241,Blue-Collar,45
+DS-82569439-N,Male,Married,26,High School,49087,White-Collar,55
+DS-44626636-N,Male,Married,69,Bachelor's,99270,Manager,20
+DS-74690502-N,Male,Single,40,Some College,24952,Retired,20
+DS-36465184-N,Male,Married,56,Some College,74584,Manager,15
+DS-77685212-N,Male,Married,69,Some College,71615,Blue-Collar,26
+DS-16430108-N,Male,Married,36,Some College,65877,White-Collar,58
+DS-79721842-N,Male,Single,22,High School,15913,Blue-Collar,23
+DS-20646690-N,Female,Single,24,Bachelor's,37433,White-Collar,72
+DS-44282359-N,Female,Single,22,Some College,22821,Blue-Collar,41
+DS-76835553-N,Female,Married,54,Bachelor's,97555,Manager,33
+DS-77668562-N,Female,Married,32,Master's,62290,Self-Employed,55
+DS-65964093-N,Female,Married,39,Some College,26229,Unemployed,26
+DS-75152478-N,Male,Divorced,22,Some College,32255,Student,63
+DS-59913169-N,Female,Single,26,Some College,50894,Manager,79
+DS-80674661-N,Female,Married,57,Master's,88185,Self-Employed,22
+DS-93242283-N,Female,Divorced,19,Master's,35930,White-Collar,70
+DS-26733124-N,Male,Married,61,Some College,107378,Manager,18
+DS-66221943-N,Female,Single,40,Master's,12316,Retired,15
+DS-66405149-N,Female,Single,27,Bachelor's,34944,Blue-Collar,92
+DS-69225507-N,Male,Married,50,Bachelor's,93521,Self-Employed,82
+DS-90739606-N,Female,Divorced,42,PhD,95105,Manager,76
+DS-52839471-N,Male,Divorced,26,Bachelor's,23710,Student,73
+DS-12121566-N,Male,Married,39,Bachelor's,92294,Retired,92
+DS-74901647-N,Female,Widowed,64,Bachelor's,90327,Manager,15
+DS-60239048-N,Female,Single,36,Some College,11589,Blue-Collar,26
+DS-16886640-N,Male,Divorced,29,Some College,30281,Blue-Collar,19
+DS-30492823-N,Female,Divorced,45,Some College,89455,White-Collar,85
+DS-27917684-N,Female,Single,37,Bachelor's,28420,Retired,5
+DS-15655815-N,Male,Widowed,50,Master's,123410,Manager,43
+DS-83722197-N,Female,Married,60,PhD,56723,Self-Employed,33
+DS-74921405-N,Female,Divorced,45,Bachelor's,112602,Self-Employed,83
+DS-57977498-N,Male,Single,41,Bachelor's,12703,Self-Employed,22
+DS-65501276-N,Male,Married,40,Bachelor's,49468,Manager,49
+DS-72058656-N,Female,Married,64,High School,61749,Retired,28
+DS-80830335-N,Female,Divorced,25,Bachelor's,45958,Blue-Collar,77
+DS-16214250-N,Male,Divorced,18,Bachelor's,23607,Student,78
+DS-28161258-N,Male,Single,28,Some College,20700,Blue-Collar,36
+DS-88972310-N,Female,Widowed,33,Some College,15021,Self-Employed,27
+DS-32698295-N,Male,Married,29,Bachelor's,50020,White-Collar,46
+DS-19537321-N,Male,Married,32,Master's,47287,White-Collar,34
+DS-79201343-N,Female,Single,26,High School,47241,White-Collar,52
+DS-28687904-N,Male,Divorced,21,Master's,30010,White-Collar,79
+DS-87250959-N,Female,Single,44,Some College,18113,Unemployed,36
+DS-26703216-N,Female,Single,33,Some College,19117,Blue-Collar,35
+DS-90678403-N,Male,Single,34,Bachelor's,67970,Manager,86
+DS-77975261-N,Female,Single,41,Master's,100856,Manager,81
+DS-84368640-N,Male,Married,42,High School,30515,Manager,7
+DS-37797562-N,Female,Single,38,Some College,26188,White-Collar,15
+DS-30814645-N,Male,Single,27,High School,20012,Blue-Collar,33
+DS-77680423-N,Male,Divorced,31,Some College,21426,Unemployed,24
+DS-95662118-N,Female,Single,38,PhD,57103,White-Collar,53
+DS-73010001-N,Male,Widowed,45,Bachelor's,80060,Self-Employed,31
+DS-33947174-N,Female,Single,30,High School,24962,Self-Employed,25
+DS-55499078-N,Male,Divorced,24,Some College,32454,Self-Employed,77
+DS-74092225-N,Female,Widowed,40,Bachelor's,25359,Blue-Collar,25
+DS-84692590-N,Male,Married,35,Master's,57232,White-Collar,40
+DS-32468146-N,Female,Married,31,Some College,63578,Self-Employed,57
+DS-92007458-N,Female,Divorced,27,Bachelor's,52803,Manager,58
+DS-15605813-N,Female,Married,26,PhD,33220,White-Collar,45
+DS-30666759-N,Female,Married,42,Master's,101554,White-Collar,91
+DS-92602757-N,Female,Married,65,Some College,88553,Manager,27
+DS-26522580-N,Female,Divorced,24,Bachelor's,31451,Blue-Collar,73
+DS-54745980-N,Female,Divorced,23,Master's,35421,White-Collar,100
+DS-19081629-N,Female,Married,52,Bachelor's,75850,White-Collar,39
+DS-40356515-N,Male,Single,25,Bachelor's,27121,Student,100
+DS-61245209-N,Male,Single,21,Some College,34768,Unemployed,95
+DS-17446350-N,Female,Single,27,Master's,26597,Student,74
+DS-13750204-N,Male,Married,51,Bachelor's,108452,White-Collar,79
+DS-78641861-N,Male,Married,36,Master's,89240,Manager,84
+DS-57459114-N,Female,Married,45,Bachelor's,55460,Manager,45
+DS-72528204-N,Female,Married,55,Master's,84166,Retired,34
+DS-35425516-N,Female,Married,41,Bachelor's,55134,White-Collar,49
+DS-15232717-N,Male,Single,43,Bachelor's,19685,Self-Employed,20
+DS-24370450-N,Male,Single,18,Some College,45832,White-Collar,95
+DS-58050693-N,Female,Married,45,Some College,96140,Self-Employed,86
+DS-84125214-N,Female,Single,34,Master's,21562,Unemployed,26
+DS-58188542-N,Female,Married,53,Bachelor's,78610,White-Collar,32
+DS-46038005-N,Female,Married,59,Master's,101923,Self-Employed,22
+DS-85022750-N,Female,Single,19,PhD,39181,Student,85
+DS-20287833-N,Female,Single,25,Bachelor's,31291,Student,83
+DS-45312808-N,Male,Single,27,High School,33453,Blue-Collar,78
+DS-79259955-N,Male,Widowed,36,High School,21697,Blue-Collar,32
+DS-96194194-N,Male,Married,74,Bachelor's,87793,White-Collar,14
+DS-91993088-N,Female,Married,39,Bachelor's,84864,White-Collar,82
+DS-75477021-N,Male,Married,30,Bachelor's,47613,Blue-Collar,35
+DS-66710771-N,Male,Married,47,Master's,74496,Self-Employed,80
+DS-82878830-N,Male,Divorced,25,Bachelor's,59928,Self-Employed,60
+DS-80850740-N,Female,Single,22,Bachelor's,43115,Unemployed,67
+DS-31035210-N,Male,Divorced,23,High School,34478,Blue-Collar,84
+DS-43235554-N,Male,Married,37,Bachelor's,57987,Blue-Collar,44
+DS-30823852-N,Male,Married,70,Bachelor's,93952,Blue-Collar,33
+DS-37998626-N,Female,Single,20,Bachelor's,31035,Self-Employed,78
+DS-19741819-N,Female,Married,30,Master's,43208,Self-Employed,52
+DS-47446058-N,Male,Married,48,Bachelor's,96469,Self-Employed,84
+DS-31938384-N,Male,Married,30,High School,31617,Manager,15
+DS-11124052-N,Female,Divorced,25,Bachelor's,38988,Student,82
+DS-94791226-N,Female,Married,37,Bachelor's,53768,Manager,58
+DS-14887048-N,Female,Married,45,High School,60724,Retired,47
+DS-17524015-N,Male,Divorced,32,High School,41097,Blue-Collar,74
+DS-90053527-N,Male,Divorced,45,Master's,41827,White-Collar,21
+DS-53031497-N,Male,Single,41,Master's,54794,Self-Employed,54
+DS-99081155-N,Male,Divorced,23,Some College,41185,Student,84
+DS-94055498-N,Male,Single,36,High School,16569,Student,14
+DS-89675930-N,Male,Widowed,56,Bachelor's,52124,White-Collar,23
+DS-68125278-N,Female,Married,59,Bachelor's,89926,White-Collar,31
+DS-72521553-N,Female,Single,23,Bachelor's,35390,Blue-Collar,88
+DS-41660762-N,Male,Married,30,Bachelor's,40637,Manager,58
+DS-70218370-N,Male,Married,32,Bachelor's,108246,Self-Employed,81
+DS-85196703-N,Female,Married,40,Master's,85857,Manager,80
+DS-29699893-N,Male,Widowed,37,Some College,19311,Unemployed,27
+DS-39315503-N,Female,Married,73,PhD,77137,Retired,30
+DS-24517144-N,Male,Married,49,Some College,110360,Manager,86
+DS-29994773-N,Female,Widowed,54,Bachelor's,98384,Self-Employed,48
+DS-75584046-N,Male,Married,28,Bachelor's,41184,Manager,34
+DS-64944803-N,Female,Married,30,Some College,53493,White-Collar,44
+DS-88702542-N,Male,Widowed,70,High School,96779,White-Collar,25
+DS-79778724-N,Male,Married,59,Bachelor's,57138,Manager,30
+DS-16336198-N,Male,Divorced,30,Master's,142066,White-Collar,90
+DS-46943714-N,Female,Divorced,42,Bachelor's,118235,Blue-Collar,72
+DS-50373131-N,Female,Widowed,22,Some College,11748,White-Collar,28
+DS-61064001-N,Male,Single,44,Some College,24404,Blue-Collar,20
+DS-57962251-N,Male,Married,30,Bachelor's,65989,Manager,70
+DS-82093674-N,Female,Married,50,PhD,99814,White-Collar,38
+DS-57738662-N,Female,Married,37,Bachelor's,12108,Unemployed,22
+DS-35986893-N,Male,Single,30,Bachelor's,51559,White-Collar,48
+DS-15991974-N,Male,Single,35,Bachelor's,33217,White-Collar,46
+DS-24559409-N,Male,Widowed,51,Some College,59239,Self-Employed,39
+DS-18603797-N,Female,Single,39,Some College,63271,Blue-Collar,53
+DS-57745221-N,Male,Married,45,Master's,100764,Self-Employed,41
+DS-28849454-N,Female,Divorced,26,Some College,34371,Unemployed,92
+DS-25494959-N,Male,Divorced,31,Bachelor's,65821,Manager,50
+DS-24949503-N,Female,Divorced,25,Bachelor's,30641,Student,75
+DS-71477593-N,Female,Married,27,PhD,58098,White-Collar,39
+DS-86746852-N,Female,Married,29,Bachelor's,48384,White-Collar,59
+DS-29820712-N,Female,Married,40,Bachelor's,82351,Manager,99
+DS-83672393-N,Male,Single,30,Bachelor's,73188,White-Collar,63
+DS-60798146-N,Male,Single,21,Some College,31775,Blue-Collar,88
+DS-38215061-N,Female,Married,40,PhD,94989,Manager,71
+DS-62475249-N,Female,Married,46,Bachelor's,95214,White-Collar,74
+DS-29738609-N,Male,Single,21,High School,30969,Self-Employed,75
+DS-86905601-N,Female,Divorced,21,Bachelor's,39757,Student,70
+DS-48860109-N,Female,Single,18,Bachelor's,32649,Student,94
+DS-32057728-N,Male,Single,25,Some College,23081,White-Collar,88
+DS-74676096-N,Male,Divorced,26,Master's,28221,Student,79
+DS-64962724-N,Female,Married,32,High School,17294,Student,24
+DS-88595040-N,Male,Married,45,Master's,53158,White-Collar,40
+DS-21701970-N,Male,Divorced,45,Bachelor's,20920,Blue-Collar,30
+DS-48856878-N,Female,Divorced,45,Bachelor's,97693,White-Collar,84
+DS-44011787-N,Female,Divorced,22,Bachelor's,42550,Unemployed,77
+DS-36985149-N,Female,Single,24,Bachelor's,35328,Unemployed,73
+DS-88437532-N,Male,Divorced,32,Bachelor's,51796,Self-Employed,34
+DS-76199145-N,Male,Single,22,Some College,23395,Unemployed,24
+DS-73540399-N,Male,Widowed,36,Bachelor's,96840,Manager,94
+DS-21037625-N,Female,Married,44,Master's,105396,Manager,83
+DS-41146670-N,Female,Married,31,Bachelor's,113928,Manager,74
+DS-41116226-N,Female,Married,34,Bachelor's,54420,Self-Employed,44
+DS-56838957-N,Female,Married,43,Master's,97903,Blue-Collar,88
+DS-85131086-N,Female,Married,66,Some College,100635,White-Collar,18
+DS-33724859-N,Male,Widowed,44,Bachelor's,16119,White-Collar,26
+DS-39286231-N,Male,Single,40,Bachelor's,96848,White-Collar,86
+DS-66872935-N,Male,Single,37,Bachelor's,87856,White-Collar,88
+DS-12476199-N,Female,Married,39,Master's,82411,Manager,73
+DS-68747089-N,Female,Single,23,High School,39299,Student,85
+DS-97333631-N,Female,Single,26,PhD,27739,Student,76
+DS-70500060-N,Female,Divorced,26,High School,42466,Student,89
+DS-34746016-N,Male,Single,23,High School,37110,Student,77
+DS-60087939-N,Female,Divorced,44,Master's,87892,Self-Employed,81
+DS-78081366-N,Female,Married,56,PhD,92035,Retired,28
+DS-51400578-N,Male,Widowed,54,Master's,104990,Manager,24
+DS-50313038-N,Male,Married,38,Master's,94616,Retired,67
+DS-28100955-N,Female,Divorced,51,Master's,88143,Manager,77
+DS-86461741-N,Female,Single,23,Bachelor's,33476,Self-Employed,88
+DS-25237919-N,Male,Widowed,57,PhD,56614,White-Collar,30
+DS-42226163-N,Female,Single,36,High School,20379,Unemployed,27
+DS-91756407-N,Male,Single,22,Some College,24473,Self-Employed,25
+DS-55912702-N,Female,Single,25,Bachelor's,40690,Blue-Collar,84
+DS-20491252-N,Female,Married,31,Master's,41502,Blue-Collar,69
+DS-85150726-N,Female,Divorced,23,Some College,25331,Unemployed,27
+DS-64657280-N,Male,Married,26,Bachelor's,51143,White-Collar,56
+DS-51532870-N,Male,Divorced,42,Master's,120425,Self-Employed,77
+DS-32820597-N,Female,Married,52,High School,98876,Retired,44
+DS-91805161-N,Male,Married,37,Bachelor's,73076,White-Collar,57
+DS-11162172-N,Female,Single,37,Bachelor's,26456,Blue-Collar,22
+DS-69149290-N,Male,Divorced,25,Some College,39609,Blue-Collar,98
+DS-43221917-N,Female,Married,34,Some College,58603,Self-Employed,42
+DS-73086625-N,Female,Single,21,Bachelor's,35776,White-Collar,66
+DS-17501647-N,Female,Divorced,36,Master's,65000,Manager,76
+DS-48159613-N,Male,Married,56,Bachelor's,95212,White-Collar,27
+DS-54347295-N,Male,Divorced,21,High School,47606,White-Collar,77
+DS-97145098-N,Male,Divorced,18,Bachelor's,38653,Unemployed,80
+DS-45960226-N,Male,Single,27,Some College,26383,Blue-Collar,80
+DS-96850101-N,Female,Married,47,Master's,73724,Blue-Collar,67
+DS-90121800-N,Female,Married,57,Some College,70433,White-Collar,12
+DS-52082152-N,Female,Divorced,36,High School,20267,Manager,7
+DS-53054450-N,Female,Married,39,Bachelor's,62310,Manager,57
+DS-32070605-N,Female,Married,51,PhD,79434,Manager,19
+DS-31374638-N,Female,Married,45,Master's,96147,Retired,40
+DS-61756549-N,Female,Widowed,57,Bachelor's,63625,Self-Employed,18
+DS-41787471-N,Male,Single,38,High School,20929,Retired,25
+DS-60671152-N,Male,Single,23,Bachelor's,25092,Manager,73
+DS-54839396-N,Male,Married,55,Some College,87709,White-Collar,28
+DS-94794263-N,Female,Married,33,PhD,97845,Manager,76
+DS-40927505-N,Female,Single,60,Bachelor's,76319,Retired,45
+DS-27304186-N,Female,Single,23,Bachelor's,36703,Student,75
+DS-17905871-N,Female,Widowed,53,Some College,58342,Self-Employed,17
+DS-55285351-N,Male,Married,55,PhD,83068,Blue-Collar,18
+DS-40636654-N,Male,Single,24,Bachelor's,26999,White-Collar,81
+DS-42809223-N,Female,Single,27,Bachelor's,39368,Unemployed,84
+DS-46375916-N,Female,Married,30,Some College,85882,Blue-Collar,92
+DS-36492429-N,Male,Single,27,Master's,24568,Self-Employed,22
+DS-57480387-N,Male,Widowed,52,Master's,78790,Manager,20
+DS-19453158-N,Female,Married,30,Master's,62564,Manager,32
+DS-55045346-N,Female,Single,41,High School,18958,Unemployed,25
+DS-13911482-N,Female,Single,19,Some College,33198,Blue-Collar,61
+DS-93927661-N,Male,Divorced,35,High School,17123,Manager,33
+DS-91154279-N,Female,Married,41,Master's,93674,Self-Employed,79
+DS-93011983-N,Male,Married,45,PhD,111760,White-Collar,93
+DS-81092247-N,Female,Divorced,21,Bachelor's,41825,Self-Employed,76
+DS-54042658-N,Female,Single,22,PhD,33027,White-Collar,64
+DS-18123016-N,Female,Married,37,Bachelor's,54866,Self-Employed,46
+DS-67675905-N,Female,Married,35,Bachelor's,71693,White-Collar,88
+DS-49134421-N,Female,Married,48,Bachelor's,93863,Manager,87
+DS-15209533-N,Male,Married,43,Bachelor's,104333,Self-Employed,72
+DS-79278356-N,Female,Single,21,Bachelor's,31590,Self-Employed,72
+DS-61154664-N,Female,Married,64,Bachelor's,89398,Self-Employed,16
+DS-56548398-N,Female,Married,38,Some College,79778,Self-Employed,76
+DS-60262348-N,Female,Single,26,Some College,44304,White-Collar,79
+DS-78361784-N,Female,Married,33,Some College,62946,Manager,61
+DS-13865241-N,Male,Married,51,Bachelor's,102364,Manager,87
+DS-43814071-N,Male,Divorced,24,Some College,30367,Student,86
+DS-64348796-N,Female,Married,36,Bachelor's,23820,Blue-Collar,22
+DS-98573681-N,Male,Married,29,Bachelor's,57952,Blue-Collar,49
+DS-75130213-N,Male,Divorced,28,Master's,32143,Manager,57
+DS-77342866-N,Male,Divorced,45,High School,95732,Blue-Collar,82
+DS-54926909-N,Male,Married,32,Master's,101932,Manager,98
+DS-79256503-N,Male,Married,38,Master's,91571,White-Collar,74
+DS-89119148-N,Male,Single,40,Master's,105454,Self-Employed,79
+DS-71904375-N,Male,Married,38,Some College,74452,Manager,81
+DS-42954705-N,Female,Married,26,Bachelor's,64524,Self-Employed,68
+DS-15983011-N,Female,Divorced,20,Bachelor's,36052,Blue-Collar,81
+DS-15249148-N,Male,Married,48,PhD,77158,White-Collar,95
+DS-18749256-N,Female,Single,38,PhD,83012,Self-Employed,78
+DS-31076790-N,Male,Married,37,Master's,40999,Blue-Collar,57
+DS-74164885-N,Male,Single,35,Master's,47885,Blue-Collar,48
+DS-63369167-N,Female,Single,23,Bachelor's,28311,Self-Employed,61
+DS-12501587-N,Male,Married,65,PhD,69848,Retired,19
+DS-84736934-N,Male,Married,30,Bachelor's,62833,Blue-Collar,37
+DS-43943851-N,Male,Divorced,21,Master's,26037,White-Collar,86
+DS-16114052-N,Female,Divorced,30,Master's,94587,Manager,96
+DS-91937272-N,Female,Married,41,PhD,23781,Blue-Collar,33
+DS-92146467-N,Female,Married,35,Master's,71187,Blue-Collar,56
+DS-59808400-N,Male,Married,44,Master's,104520,Manager,90
+DS-96908579-N,Male,Single,66,Some College,110330,Manager,33
+DS-11957995-N,Male,Married,33,High School,65488,Blue-Collar,51
+DS-21055819-N,Female,Married,49,Master's,84897,White-Collar,84
+DS-72195134-N,Female,Single,32,Bachelor's,20274,Manager,26
+DS-94615683-N,Male,Single,24,High School,28971,Manager,93
+DS-58910682-N,Female,Married,44,Master's,80024,White-Collar,84
+DS-15149316-N,Female,Divorced,18,High School,34537,White-Collar,65
+DS-14897580-N,Male,Married,75,Some College,42485,Manager,45
+DS-92678841-N,Female,Divorced,25,Some College,36827,Student,78
+DS-29746397-N,Female,Married,30,Bachelor's,104838,Self-Employed,83
+DS-96778304-N,Male,Married,51,Master's,95313,White-Collar,83
+DS-63592995-N,Female,Married,54,High School,95000,Manager,16
+DS-13385227-N,Female,Divorced,21,Some College,29244,Student,80
+DS-44714105-N,Male,Married,43,Master's,80543,Self-Employed,74
+DS-98921803-N,Female,Married,37,Bachelor's,46519,White-Collar,47
+DS-55660094-N,Female,Married,37,PhD,58980,Blue-Collar,55
+DS-15513761-N,Female,Married,57,Bachelor's,102273,Self-Employed,23
+DS-19234262-N,Female,Married,32,Bachelor's,20318,Blue-Collar,30
+DS-63226434-N,Female,Divorced,36,Master's,97540,Manager,70
+DS-17724980-N,Female,Married,63,Bachelor's,60345,White-Collar,36
+DS-41024316-N,Male,Divorced,22,Some College,36358,White-Collar,88
+DS-61296021-N,Male,Married,42,PhD,73425,Manager,89
+DS-83402350-N,Female,Divorced,18,Some College,26717,Manager,57
+DS-44796550-N,Female,Married,34,Master's,100995,Manager,76
+DS-32444085-N,Female,Divorced,56,Some College,78844,Self-Employed,28
+DS-62405917-N,Male,Divorced,41,Master's,73255,Manager,74
+DS-52062200-N,Male,Married,43,Master's,90363,White-Collar,83
+DS-15383122-N,Male,Single,47,Bachelor's,102516,Self-Employed,83
+DS-83235661-N,Male,Divorced,60,Bachelor's,99637,Manager,48
+DS-41455785-N,Female,Single,46,Master's,74510,White-Collar,91
+DS-27483999-N,Female,Single,20,PhD,25538,Blue-Collar,68
+DS-43674393-N,Female,Widowed,66,Bachelor's,44880,Manager,29
+DS-19601625-N,Female,Single,22,Some College,24021,Self-Employed,28
+DS-56769891-N,Female,Single,40,High School,18509,Unemployed,37
+DS-98955339-N,Female,Married,46,Bachelor's,101314,Manager,85
+DS-99910318-N,Female,Single,24,High School,41780,Self-Employed,70
+DS-63710177-N,Male,Single,24,Bachelor's,29705,White-Collar,63
+DS-85244042-N,Female,Married,43,Some College,101629,Blue-Collar,73
+DS-33047096-N,Male,Married,38,Bachelor's,103828,White-Collar,95
+DS-49936929-N,Male,Married,46,Bachelor's,19525,Retired,17
+DS-48228270-N,Female,Married,29,Bachelor's,30000,Self-Employed,63
+DS-75358641-N,Male,Widowed,60,Some College,79029,White-Collar,18
+DS-33853738-N,Female,Married,51,High School,105260,Self-Employed,34
+DS-51689363-N,Female,Divorced,25,Bachelor's,40754,Self-Employed,96
+DS-49273476-N,Male,Divorced,22,Bachelor's,44629,Unemployed,76
+DS-36770442-N,Male,Divorced,26,High School,24977,Self-Employed,16
+DS-89543210-N,Male,Single,24,Bachelor's,21087,White-Collar,75
+DS-33939791-N,Male,Married,56,Bachelor's,79292,White-Collar,26
+DS-12717621-N,Female,Married,62,Master's,77534,Retired,22
+DS-47672601-N,Male,Single,33,Bachelor's,63378,Blue-Collar,50
+DS-59606071-N,Female,Divorced,29,Master's,14923,Unemployed,23
+DS-50176455-N,Female,Married,55,High School,62075,Manager,34
+DS-53123473-N,Male,Married,28,Bachelor's,59066,Unemployed,50
+DS-57725176-N,Male,Widowed,60,High School,74008,White-Collar,27
+DS-97047989-N,Female,Divorced,26,Master's,29919,Blue-Collar,79
+DS-76244350-N,Male,Married,46,PhD,75600,Self-Employed,74
+DS-34578016-N,Female,Married,63,PhD,83877,Self-Employed,33
+DS-59013871-N,Male,Married,28,High School,63280,Self-Employed,62
+DS-50768701-N,Female,Married,54,Master's,85347,Manager,89
+DS-85886246-N,Male,Single,44,Some College,15336,Blue-Collar,18
+DS-53660514-N,Male,Married,28,Bachelor's,47410,Blue-Collar,42
+DS-97345002-N,Female,Married,59,PhD,70438,White-Collar,32
+DS-37061081-N,Male,Divorced,25,Some College,35537,White-Collar,65
+DS-11973831-N,Male,Single,25,Bachelor's,33435,Blue-Collar,85
+DS-87112744-N,Male,Married,63,Some College,73354,Manager,5
+DS-78684962-N,Male,Widowed,24,Bachelor's,16601,Blue-Collar,5
+DS-35766159-N,Female,Married,32,Bachelor's,61558,Self-Employed,61
+DS-60680069-N,Female,Married,47,Master's,86970,Self-Employed,81
+DS-88407084-N,Male,Married,71,Bachelor's,94679,Blue-Collar,27
+DS-54925402-N,Male,Single,22,Bachelor's,30261,Blue-Collar,84
+DS-91026232-N,Female,Married,61,Bachelor's,42433,Manager,22
+DS-66602326-N,Male,Single,39,Bachelor's,110899,White-Collar,86
+DS-33318859-N,Male,Single,29,High School,22420,White-Collar,22
+DS-17348469-N,Male,Married,63,Bachelor's,61097,Blue-Collar,35
+DS-97824032-N,Female,Married,35,High School,27519,Unemployed,19
+DS-16755006-N,Female,Married,40,Master's,114224,White-Collar,86
+DS-45987285-N,Male,Married,45,Bachelor's,78764,White-Collar,14
+DS-43307550-N,Male,Married,38,Master's,93777,Manager,84
+DS-47777587-N,Female,Married,34,Some College,46764,White-Collar,46
+DS-45460208-N,Female,Married,70,High School,92709,Retired,25
+DS-61481906-N,Male,Married,36,Master's,48163,White-Collar,49
+DS-89752829-N,Male,Single,37,High School,14405,Self-Employed,5
+DS-82811695-N,Male,Single,32,High School,18357,White-Collar,24
+DS-98206270-N,Male,Married,61,Master's,98550,Manager,21
+DS-62297737-N,Male,Single,48,Some College,92472,Manager,21
+DS-50910672-N,Female,Divorced,34,Some College,16769,Unemployed,26
+DS-22399354-N,Male,Single,39,Bachelor's,21497,Unemployed,21
+DS-49872284-N,Female,Married,39,Master's,80673,Self-Employed,85
+DS-83909177-N,Male,Married,37,Bachelor's,67001,Manager,81
+DS-88944152-N,Male,Married,54,Master's,78987,White-Collar,82
+DS-50563766-N,Female,Widowed,35,Bachelor's,55031,White-Collar,64
+DS-54128118-N,Female,Married,27,Some College,52430,Manager,55
+DS-39786713-N,Female,Married,65,Bachelor's,52651,Manager,5
+DS-15739253-N,Female,Married,37,Bachelor's,75031,Manager,67
+DS-19674007-N,Female,Married,49,Bachelor's,83324,White-Collar,37
+DS-74276343-N,Male,Widowed,30,Bachelor's,52423,White-Collar,51
+DS-15333135-N,Male,Married,54,Bachelor's,55295,Manager,31
+DS-61438900-N,Female,Divorced,27,High School,39517,Unemployed,91
+DS-13131515-N,Female,Married,46,Some College,111492,Self-Employed,41
+DS-35102247-N,Female,Married,38,Master's,51647,White-Collar,38
+DS-76943656-N,Male,Married,47,Bachelor's,101407,Manager,76
+DS-92419588-N,Female,Married,61,Some College,88460,Self-Employed,20
+DS-25866633-N,Male,Single,44,Master's,95294,Manager,87
+DS-92764622-N,Female,Married,41,Bachelor's,101292,Manager,74
+DS-20503713-N,Female,Married,48,Bachelor's,67237,Manager,47
+DS-71087522-N,Male,Married,33,Master's,65918,Blue-Collar,51
+DS-46686736-N,Female,Divorced,40,Master's,45064,Self-Employed,53
+DS-13156140-N,Male,Single,68,High School,57382,Manager,36
+DS-46647632-N,Female,Single,51,Some College,19371,Unemployed,22
+DS-61193111-N,Male,Widowed,26,Master's,30595,Unemployed,13
+DS-87573788-N,Male,Widowed,22,High School,10000,Blue-Collar,29
+DS-67707870-N,Male,Single,41,Some College,15854,Blue-Collar,35
+DS-32275681-N,Female,Divorced,24,Some College,30798,Unemployed,78
+DS-71747495-N,Female,Divorced,18,Some College,39687,White-Collar,81
+DS-29827761-N,Female,Divorced,21,Some College,29173,Blue-Collar,82
+DS-21003563-N,Male,Married,68,High School,65268,White-Collar,43
+DS-33265641-N,Female,Married,62,Bachelor's,59461,Retired,26
+DS-45364841-N,Male,Married,43,Bachelor's,83862,Self-Employed,71
+DS-19830739-N,Male,Single,22,Bachelor's,25274,Blue-Collar,29
+DS-73164794-N,Female,Divorced,18,High School,28435,Manager,83
+DS-67320073-N,Female,Married,44,Master's,77061,White-Collar,85
+DS-52877107-N,Male,Divorced,23,Some College,22788,Blue-Collar,12
+DS-88117541-N,Male,Married,25,High School,63031,White-Collar,54
+DS-32920263-N,Male,Single,26,Bachelor's,44680,White-Collar,47
+DS-39450727-N,Female,Single,25,Bachelor's,46823,Manager,40
+DS-48815461-N,Male,Divorced,37,Some College,28419,Unemployed,33
+DS-92272332-N,Female,Divorced,29,Master's,52372,White-Collar,36
+DS-68056017-N,Female,Divorced,30,Bachelor's,45048,Manager,57
+DS-73511870-N,Female,Married,33,Bachelor's,26234,Unemployed,20
+DS-84133992-N,Male,Divorced,30,High School,40372,Student,73
+DS-76505256-N,Male,Divorced,59,Master's,85296,White-Collar,25
+DS-96778962-N,Male,Single,35,High School,15677,Blue-Collar,5
+DS-67675903-N,Male,Divorced,24,Some College,42222,White-Collar,63
+DS-86235264-N,Male,Married,68,High School,75068,Manager,25
+DS-11047416-N,Female,Married,36,Bachelor's,102145,Manager,86
+DS-58104355-N,Female,Single,23,High School,18303,Blue-Collar,32
+DS-16996879-N,Female,Single,20,Bachelor's,27971,Student,70
+DS-63377834-N,Female,Single,42,High School,22006,Self-Employed,25
+DS-48906180-N,Female,Divorced,22,Some College,37425,Student,77
+DS-37106187-N,Female,Widowed,57,Bachelor's,80456,Blue-Collar,8
+DS-65621251-N,Male,Married,38,Some College,92477,White-Collar,78
+DS-33559241-N,Male,Divorced,28,High School,24337,Blue-Collar,72
+DS-83492832-N,Male,Married,63,Bachelor's,75844,White-Collar,42
+DS-99261859-N,Male,Married,29,Master's,61523,White-Collar,66
+DS-14693021-N,Female,Divorced,57,Some College,72512,Manager,18
+DS-76883736-N,Female,Married,36,Bachelor's,95422,Manager,81
+DS-60996664-N,Female,Married,34,Master's,87377,White-Collar,80
+DS-83593472-N,Male,Married,70,Bachelor's,94654,Manager,32
+DS-32032153-N,Male,Divorced,70,Some College,76075,Manager,19
+DS-48216959-N,Male,Divorced,24,Master's,35840,Unemployed,84
+DS-80631303-N,Female,Single,47,Bachelor's,102270,White-Collar,75
+DS-82385421-N,Female,Married,42,Bachelor's,75322,White-Collar,73
+DS-28732188-N,Female,Single,36,High School,27177,Unemployed,14
+DS-73706230-N,Female,Divorced,21,Bachelor's,36497,Blue-Collar,76
+DS-87352280-N,Male,Married,70,High School,80331,Blue-Collar,30
+DS-98279456-N,Female,Married,60,Bachelor's,48031,Retired,38
+DS-55613260-N,Male,Divorced,46,Some College,21541,Self-Employed,14
+DS-61988866-N,Male,Divorced,19,Some College,30633,Student,97
+DS-10184133-N,Female,Divorced,25,Bachelor's,39831,Self-Employed,73
+DS-86511749-N,Female,Married,31,Master's,49813,Blue-Collar,60
+DS-14692479-N,Female,Divorced,45,Bachelor's,95096,White-Collar,78
+DS-18558530-N,Female,Married,52,Bachelor's,56877,White-Collar,37
+DS-84227338-N,Female,Divorced,23,High School,35550,Blue-Collar,58
+DS-63129664-N,Female,Married,57,Bachelor's,88629,Self-Employed,36
+DS-35806317-N,Female,Married,38,Master's,49734,Manager,46
+DS-10431579-N,Male,Married,59,PhD,104921,Manager,32
+DS-69387037-N,Male,Married,33,Master's,46484,Manager,52
+DS-14362685-N,Female,Single,34,Some College,23610,Unemployed,21
+DS-56714713-N,Female,Married,50,Bachelor's,77874,White-Collar,80
+DS-95100702-N,Male,Married,25,Bachelor's,43799,Self-Employed,58
+DS-31764383-N,Female,Single,44,Some College,95287,Manager,76
+DS-35593801-N,Female,Married,67,Some College,92513,White-Collar,30
+DS-21286667-N,Female,Single,36,Some College,24531,Manager,35
+DS-33387244-N,Male,Married,65,Bachelor's,84038,Self-Employed,37
+DS-54191924-N,Female,Divorced,33,Some College,23508,Retired,23
+DS-54837543-N,Female,Single,37,Some College,27977,White-Collar,16
+DS-14251465-N,Female,Divorced,36,Bachelor's,107442,White-Collar,80
+DS-81714868-N,Female,Single,32,Some College,37673,Student,82
+DS-22524618-N,Male,Divorced,23,Some College,41685,Self-Employed,68
+DS-10823842-N,Female,Single,29,Some College,13694,Self-Employed,26
+DS-26273505-N,Male,Married,46,Master's,115853,Retired,86
+DS-71507015-N,Female,Single,25,High School,26242,Blue-Collar,87
+DS-84604833-N,Female,Single,23,Some College,45952,White-Collar,51
+DS-69357856-N,Male,Divorced,22,Some College,39976,Student,82
+DS-81342732-N,Male,Married,53,Bachelor's,74806,White-Collar,20
+DS-49571413-N,Male,Divorced,24,Master's,46400,Student,64
+DS-48600102-N,Female,Divorced,42,Master's,129789,White-Collar,85
+DS-98880139-N,Female,Married,38,Master's,106913,Self-Employed,71
+DS-48949732-N,Female,Married,55,Master's,97564,Self-Employed,37
+DS-65258737-N,Female,Married,56,Some College,73579,Retired,39
+DS-17416330-N,Female,Married,39,Some College,89123,Self-Employed,74
+DS-27105151-N,Male,Married,50,PhD,118245,Manager,41
+DS-92589875-N,Female,Divorced,30,Some College,29517,Self-Employed,74
+DS-64814745-N,Male,Married,61,Bachelor's,63463,Manager,23
+DS-11446523-N,Female,Divorced,60,High School,88446,Manager,12
+DS-64158790-N,Female,Single,32,Some College,49822,Blue-Collar,54
+DS-39959976-N,Male,Widowed,51,Bachelor's,84596,Manager,19
+DS-77319332-N,Female,Married,53,Bachelor's,60386,Self-Employed,20
+DS-64225049-N,Female,Single,22,High School,22802,Self-Employed,41
+DS-42952231-N,Male,Married,42,Bachelor's,103206,Manager,72
+DS-74815975-N,Male,Married,53,PhD,78008,White-Collar,19
+DS-64348696-N,Male,Single,20,Bachelor's,34460,Student,81
+DS-46624120-N,Female,Married,37,Bachelor's,14513,Unemployed,33
+DS-92237460-N,Female,Single,36,Some College,29545,Student,27
+DS-62928114-N,Female,Divorced,48,Master's,79056,White-Collar,45
+DS-21133525-N,Female,Single,22,Bachelor's,32757,White-Collar,82
+DS-50740106-N,Male,Married,61,Master's,66803,White-Collar,30
+DS-13929776-N,Female,Divorced,31,Master's,25210,Unemployed,83
+DS-30786116-N,Female,Married,27,PhD,40064,Self-Employed,30
+DS-55287749-N,Male,Married,61,Some College,78237,Manager,50
+DS-85552155-N,Male,Married,44,Master's,122572,White-Collar,80
+DS-56088695-N,Female,Married,41,Some College,72231,Self-Employed,79
+DS-62130484-N,Female,Single,27,Master's,63870,White-Collar,54
+DS-16883379-N,Female,Single,20,Some College,39802,Self-Employed,88
+DS-66055551-N,Female,Divorced,31,Bachelor's,18089,Blue-Collar,15
+DS-81736754-N,Male,Single,23,High School,15000,Student,67
+DS-39863983-N,Male,Married,39,Some College,17747,Blue-Collar,44
+DS-17431010-N,Female,Divorced,24,Bachelor's,42329,Student,94
+DS-43089830-N,Male,Married,62,Bachelor's,65522,Blue-Collar,36
+DS-37909639-N,Male,Married,33,Bachelor's,66622,Blue-Collar,46
+DS-38603872-N,Male,Single,32,Master's,23391,Student,17
+DS-80472000-N,Male,Single,39,High School,30191,Retired,25
+DS-99842951-N,Female,Married,61,Master's,61646,Manager,27
+DS-55625246-N,Female,Single,25,Bachelor's,30795,Manager,75
+DS-63545238-N,Female,Married,56,Bachelor's,84055,Self-Employed,24
+DS-75867223-N,Male,Married,60,Bachelor's,51833,Retired,28
+DS-47222514-N,Male,Married,38,PhD,96392,Self-Employed,83
+DS-49913519-N,Female,Married,30,Bachelor's,90709,White-Collar,90
+DS-58545121-N,Male,Widowed,58,Master's,90046,White-Collar,5
+DS-34952742-N,Female,Single,30,Bachelor's,25479,Unemployed,32
+DS-94471616-N,Female,Single,22,High School,20398,Blue-Collar,36
+DS-50832428-N,Male,Married,39,Bachelor's,48284,Manager,51
+DS-18210504-N,Male,Married,36,Bachelor's,42257,Manager,62
+DS-97554039-N,Female,Divorced,32,Some College,21700,Unemployed,26
+DS-90168461-N,Female,Married,60,Bachelor's,84001,Self-Employed,40
+DS-82604194-N,Male,Married,33,Bachelor's,40343,White-Collar,34
+DS-66290352-N,Male,Single,46,Bachelor's,46161,Retired,46
+DS-28551848-N,Male,Single,37,Some College,19336,Blue-Collar,29
+DS-47332565-N,Female,Single,24,Some College,40169,Student,79
+DS-75159487-N,Female,Single,33,Some College,60166,Manager,42
+DS-69515331-N,Female,Divorced,20,Master's,32750,Self-Employed,82
+DS-53347823-N,Female,Married,25,Some College,68924,Self-Employed,58
+DS-42195530-N,Male,Married,54,Bachelor's,76064,Retired,27
+DS-31281116-N,Male,Widowed,24,Bachelor's,30043,White-Collar,29
+DS-94261530-N,Male,Married,54,Bachelor's,60939,White-Collar,42
+DS-30270204-N,Female,Single,40,High School,30081,Self-Employed,9
+DS-71694860-N,Female,Single,27,Bachelor's,24100,Self-Employed,14
+DS-55984494-N,Female,Married,50,Bachelor's,92264,Manager,32
+DS-41679854-N,Female,Married,36,Some College,46960,Blue-Collar,55
+DS-83246087-N,Female,Divorced,48,Bachelor's,77318,White-Collar,33
+DS-93349673-N,Female,Single,32,Bachelor's,47287,Blue-Collar,75
+DS-82195820-N,Male,Single,47,High School,22096,Blue-Collar,11
+DS-10823122-N,Male,Married,32,Some College,65965,White-Collar,30
+DS-66268561-N,Female,Single,29,Bachelor's,30859,Blue-Collar,83
+DS-25166747-N,Female,Divorced,52,Master's,86696,White-Collar,86
+DS-48176577-N,Female,Married,36,Master's,74305,Self-Employed,76
+DS-40828587-N,Female,Married,43,Some College,74793,Manager,74
+DS-69253779-N,Female,Single,33,Bachelor's,27965,Blue-Collar,31
+DS-27708727-N,Male,Single,23,Some College,19376,Manager,26
+DS-93916966-N,Female,Divorced,24,Master's,51202,Manager,59
+DS-38135716-N,Female,Divorced,18,Some College,34611,White-Collar,81
+DS-88358920-N,Male,Single,34,Bachelor's,20497,Unemployed,12
+DS-31727823-N,Female,Divorced,24,High School,40396,Unemployed,63
+DS-99078741-N,Male,Married,31,Master's,55693,Self-Employed,53
+DS-37820815-N,Female,Married,45,PhD,86838,Blue-Collar,80
+DS-93127092-N,Male,Married,52,Master's,76342,White-Collar,76
+DS-66174740-N,Female,Single,61,Some College,89879,Retired,25
+DS-41682076-N,Male,Divorced,29,Bachelor's,17698,Self-Employed,70
+DS-34322635-N,Male,Married,53,Bachelor's,82223,Manager,47
+DS-58802819-N,Male,Married,26,PhD,53317,White-Collar,52
+DS-57638111-N,Male,Divorced,25,PhD,26239,White-Collar,92
+DS-75775385-N,Female,Divorced,22,High School,21148,Unemployed,19
+DS-14361698-N,Female,Divorced,21,Some College,32286,Student,80
+DS-16211661-N,Male,Married,44,Bachelor's,107006,Manager,88
+DS-53976562-N,Male,Single,25,Some College,10000,Blue-Collar,14
+DS-35718749-N,Male,Single,33,Bachelor's,24550,Retired,33
+DS-24351465-N,Female,Divorced,46,Master's,109329,Manager,82
+DS-90863096-N,Female,Married,37,High School,27963,Manager,10
+DS-54562602-N,Female,Single,37,Some College,22406,Self-Employed,21
+DS-47334324-N,Male,Married,65,Bachelor's,60086,Retired,19
+DS-23767649-N,Female,Married,64,Bachelor's,63660,White-Collar,43
+DS-70404910-N,Male,Widowed,63,Bachelor's,85197,Manager,11
+DS-47335963-N,Male,Divorced,19,Some College,21904,Student,74
+DS-93388555-N,Female,Married,49,Master's,103343,Manager,85
+DS-79145434-N,Female,Married,31,Bachelor's,49998,Unemployed,50
+DS-49316165-N,Female,Married,38,High School,49031,Self-Employed,35
+DS-87102352-N,Male,Divorced,18,Some College,33937,Unemployed,83
+DS-88585036-N,Male,Married,25,High School,40212,White-Collar,68
+DS-43280134-N,Male,Married,56,Some College,76294,White-Collar,20
+DS-17817426-N,Female,Divorced,26,Some College,31288,Student,70
+DS-51679742-N,Female,Divorced,51,Master's,81061,Manager,32
+DS-40953313-N,Female,Married,40,Master's,117360,Self-Employed,83
+DS-41660817-N,Male,Single,36,High School,23047,White-Collar,12
+DS-21672260-N,Male,Married,36,Bachelor's,57787,Self-Employed,49
+DS-18947228-N,Male,Married,25,PhD,52251,Manager,51
+DS-11543738-N,Male,Married,39,Master's,81727,Manager,80
+DS-91822355-N,Male,Divorced,25,High School,56552,Student,89
+DS-87347285-N,Female,Married,41,Some College,60239,Self-Employed,48
+DS-58044169-N,Male,Married,40,PhD,121928,Manager,83
+DS-59802973-N,Female,Single,28,Some College,17249,White-Collar,9
+DS-95542454-N,Male,Divorced,45,Bachelor's,60310,Self-Employed,53
+DS-11766107-N,Female,Married,39,Master's,93410,Manager,100
+DS-59644525-N,Female,Married,33,PhD,68510,Self-Employed,36
+DS-52807132-N,Female,Married,41,Bachelor's,58052,White-Collar,57
+DS-36105442-N,Female,Single,29,Some College,46057,Unemployed,72
+DS-18595231-N,Female,Married,62,High School,81296,Self-Employed,25
+DS-52932402-N,Female,Married,45,Master's,92277,Manager,29
+DS-85081740-N,Male,Married,38,PhD,100877,Manager,70
+DS-72367397-N,Female,Married,48,Some College,56195,Retired,32
+DS-92176652-N,Female,Married,53,Bachelor's,80814,Retired,28
+DS-48058707-N,Male,Single,27,Some College,23592,Blue-Collar,13
+DS-15587087-N,Male,Married,48,Master's,84940,Manager,93
+DS-68561749-N,Male,Married,41,Bachelor's,111890,Retired,81
+DS-10247856-N,Female,Divorced,36,High School,49404,Blue-Collar,30
+DS-80162129-N,Male,Married,45,Bachelor's,44443,Self-Employed,48
+DS-28002735-N,Male,Married,22,High School,23002,Unemployed,27
+DS-18216170-N,Female,Married,37,Some College,104888,Manager,89
+DS-52192735-N,Male,Divorced,47,High School,93510,White-Collar,23
+DS-77697448-N,Female,Divorced,23,Bachelor's,29722,Manager,75
+DS-63952334-N,Male,Married,71,Bachelor's,57987,Retired,28
+DS-19882002-N,Female,Married,50,PhD,121083,Self-Employed,89
+DS-74430355-N,Male,Married,54,Bachelor's,78314,White-Collar,41
+DS-59953531-N,Female,Married,28,Some College,28755,Unemployed,29
+DS-81808535-N,Female,Widowed,45,Bachelor's,93674,Self-Employed,27
+DS-62238034-N,Male,Married,62,Bachelor's,56291,Blue-Collar,35
+DS-92748346-N,Male,Married,61,Master's,40000,Blue-Collar,23
+DS-16489830-N,Male,Married,37,Bachelor's,26789,Blue-Collar,14
+DS-87194279-N,Female,Single,31,Some College,22893,White-Collar,33
+DS-52250387-N,Male,Married,34,Bachelor's,95898,White-Collar,84
+DS-86818608-N,Female,Married,45,Master's,99886,Self-Employed,83
+DS-38884946-N,Female,Widowed,52,Bachelor's,40581,Blue-Collar,39
+DS-65089925-N,Male,Divorced,27,Bachelor's,38214,Unemployed,77
+DS-43545359-N,Female,Single,27,High School,27092,Unemployed,83
+DS-75522779-N,Female,Single,37,Some College,28376,Self-Employed,20
+DS-27115664-N,Female,Single,28,Some College,24766,Blue-Collar,21
+DS-61603675-N,Female,Married,51,Bachelor's,96565,Self-Employed,74
+DS-65856992-N,Male,Divorced,65,Bachelor's,86050,White-Collar,25
+DS-39576327-N,Male,Divorced,26,Some College,35363,Self-Employed,85
+DS-47041636-N,Female,Married,54,Bachelor's,52739,Manager,31
+DS-25928095-N,Male,Divorced,45,Master's,24930,Blue-Collar,18
+DS-47767294-N,Female,Married,52,Bachelor's,130000,White-Collar,40
+DS-18614861-N,Female,Married,42,Some College,24584,Blue-Collar,20
+DS-47008388-N,Female,Single,25,High School,40790,White-Collar,78
+DS-69539604-N,Female,Divorced,45,PhD,68151,White-Collar,32
+DS-70785863-N,Male,Married,28,PhD,84356,Self-Employed,41
+DS-38774496-N,Male,Married,31,Master's,82911,Manager,89
+DS-43927814-N,Female,Married,52,PhD,59648,Self-Employed,34
+DS-56683216-N,Male,Divorced,49,Master's,76855,Manager,95
+DS-17498317-N,Male,Divorced,24,Bachelor's,38601,Unemployed,85
+DS-25429571-N,Male,Married,34,Bachelor's,46825,White-Collar,55
+DS-63971948-N,Female,Married,55,Bachelor's,40000,Manager,24
+DS-52198564-N,Male,Married,39,Bachelor's,98017,Self-Employed,84
+DS-16905552-N,Male,Married,45,Some College,91259,Manager,36
+DS-50949710-N,Male,Widowed,37,Some College,76136,Manager,80
+DS-11232332-N,Male,Married,32,Bachelor's,50761,Self-Employed,48
+DS-34151769-N,Female,Married,43,Bachelor's,55348,Manager,38
+DS-63623984-N,Male,Divorced,31,High School,39485,Blue-Collar,72
+DS-93982438-N,Male,Divorced,25,Master's,46295,Blue-Collar,82
+DS-59129914-N,Female,Married,25,Bachelor's,41261,White-Collar,65
+DS-84095462-N,Female,Married,37,Bachelor's,43136,Self-Employed,57
+DS-92276158-N,Female,Single,28,PhD,29409,Self-Employed,19
+DS-63529409-N,Male,Divorced,19,Master's,25937,Student,89
+DS-22602176-N,Male,Married,49,Bachelor's,105624,Retired,84
+DS-55787121-N,Male,Married,68,High School,112529,White-Collar,11
+DS-29436633-N,Female,Divorced,23,High School,27982,Manager,77
+DS-12193531-N,Female,Single,34,Some College,23215,Manager,19
+DS-22460447-N,Male,Married,37,High School,12980,Blue-Collar,5
+DS-12162317-N,Female,Married,50,Some College,88525,Manager,18
+DS-16310443-N,Female,Married,50,Bachelor's,66456,Self-Employed,13
+DS-17623411-N,Male,Married,42,Bachelor's,37527,Blue-Collar,52
+DS-51143309-N,Male,Married,55,Bachelor's,115847,Manager,19
+DS-35616849-N,Male,Married,28,Some College,23016,Blue-Collar,17
+DS-59523542-N,Female,Single,25,Bachelor's,41227,White-Collar,78
+DS-19459888-N,Male,Married,31,High School,53582,Manager,53
+DS-87177043-N,Female,Divorced,32,Bachelor's,32845,Manager,80
+DS-81933050-N,Female,Married,27,Bachelor's,21970,Blue-Collar,29
+DS-94224689-N,Female,Married,42,Master's,92598,Self-Employed,87
+DS-26809131-N,Male,Divorced,28,Some College,22177,Blue-Collar,27
+DS-25168782-N,Female,Single,22,Bachelor's,24616,White-Collar,11
+DS-45872388-N,Female,Single,31,Some College,44636,Blue-Collar,49
+DS-13004687-N,Male,Single,21,Some College,37770,White-Collar,82
+DS-68473079-N,Male,Single,39,Some College,18828,Unemployed,19
+DS-71411687-N,Female,Single,47,Bachelor's,112810,Retired,100
+DS-88288560-N,Male,Married,40,Bachelor's,80192,Self-Employed,80
+DS-37572117-N,Male,Divorced,36,Some College,61376,White-Collar,54
+DS-10695711-N,Male,Married,31,Master's,114565,Self-Employed,68
+DS-90458211-N,Male,Married,26,Bachelor's,59679,White-Collar,40
+DS-18498565-N,Female,Divorced,51,PhD,67814,Manager,20
+DS-54942957-N,Male,Single,62,Master's,47854,Blue-Collar,24
+DS-43910699-N,Male,Single,22,High School,24357,Unemployed,5
+DS-82423114-N,Male,Married,34,Bachelor's,67531,Blue-Collar,59
+DS-74646428-N,Female,Single,25,Some College,28231,Student,77
+DS-85127313-N,Male,Divorced,23,High School,35472,Manager,63
+DS-24655174-N,Female,Divorced,23,Some College,37301,White-Collar,81
+DS-50266818-N,Female,Married,49,Bachelor's,111369,White-Collar,86
+DS-49306345-N,Male,Married,47,Bachelor's,103201,Self-Employed,80
+DS-54573364-N,Male,Married,58,Master's,93368,Manager,32
+DS-28395056-N,Female,Married,35,Master's,98109,Manager,82
+DS-53709248-N,Female,Divorced,44,Bachelor's,34006,White-Collar,58
+DS-89471930-N,Female,Single,38,Some College,30021,Blue-Collar,19
+DS-84587109-N,Female,Divorced,63,Bachelor's,91024,White-Collar,17
+DS-37488314-N,Male,Married,34,Bachelor's,19104,Student,17
+DS-83051979-N,Female,Divorced,58,Some College,63716,Blue-Collar,39
+DS-12589401-N,Female,Divorced,26,Some College,17596,Blue-Collar,38
+DS-89549596-N,Male,Married,28,Bachelor's,54891,White-Collar,53
+DS-85428132-N,Female,Widowed,48,Bachelor's,92414,Self-Employed,22
+DS-41620906-N,Male,Married,33,Bachelor's,27584,Blue-Collar,23
+DS-41627476-N,Female,Single,29,Bachelor's,41714,Unemployed,99
+DS-30971296-N,Male,Widowed,31,Bachelor's,56358,Manager,51
+DS-75344741-N,Female,Single,37,Master's,73905,White-Collar,81
+DS-40488467-N,Male,Divorced,25,Bachelor's,26062,Blue-Collar,67
+DS-43670177-N,Male,Married,43,Bachelor's,77314,White-Collar,91
+DS-59434602-N,Female,Single,32,Bachelor's,47092,Student,82
+DS-67521041-N,Male,Married,33,Some College,65371,Manager,55
+DS-27149246-N,Male,Married,60,Some College,64450,Self-Employed,40
+DS-24006648-N,Male,Married,75,Some College,59984,White-Collar,42
+DS-98062175-N,Female,Married,32,PhD,58090,Self-Employed,45
+DS-87201513-N,Male,Single,25,Bachelor's,29760,Blue-Collar,93
+DS-98403637-N,Female,Married,56,Bachelor's,92224,Manager,24
+DS-54238958-N,Female,Single,22,Some College,29209,Unemployed,17
+DS-64409017-N,Male,Married,33,High School,22361,Manager,8
+DS-19519695-N,Male,Divorced,34,Master's,92163,Self-Employed,89
+DS-62741897-N,Male,Single,45,Bachelor's,89689,White-Collar,77
+DS-71719053-N,Female,Married,40,Bachelor's,81830,White-Collar,75
+DS-62363677-N,Female,Single,35,Some College,19585,White-Collar,5
+DS-25990939-N,Male,Single,18,PhD,34311,White-Collar,68
+DS-50531104-N,Female,Married,25,Master's,59094,Unemployed,49
+DS-84275480-N,Female,Divorced,18,Bachelor's,31919,Blue-Collar,79
+DS-44441094-N,Female,Married,30,Bachelor's,48428,White-Collar,45
+DS-67047484-N,Male,Married,51,Master's,89313,Self-Employed,80
+DS-42625695-N,Male,Single,63,Some College,92339,Retired,46
+DS-31983086-N,Male,Married,32,Bachelor's,52861,Manager,61
+DS-99107400-N,Female,Married,32,Bachelor's,48980,Unemployed,45
+DS-15107930-N,Male,Married,43,Some College,17775,Unemployed,8
+DS-49063605-N,Female,Married,27,Some College,51267,Manager,58
+DS-44858708-N,Female,Divorced,55,Bachelor's,86162,Manager,43
+DS-92706650-N,Male,Single,27,Bachelor's,28122,Blue-Collar,75
+DS-31651136-N,Male,Single,27,High School,36968,Blue-Collar,79
+DS-36146499-N,Male,Divorced,32,High School,42227,Self-Employed,62
+DS-39591618-N,Male,Divorced,57,Bachelor's,61809,White-Collar,22
+DS-63228984-N,Female,Divorced,21,Some College,35672,White-Collar,73
+DS-27255806-N,Female,Divorced,28,Some College,33117,Student,66
+DS-89331461-N,Male,Married,33,Master's,52151,White-Collar,50
+DS-53308657-N,Male,Married,39,High School,21356,White-Collar,34
+DS-46384804-N,Female,Married,44,Master's,132394,Manager,81
+DS-88668023-N,Female,Single,53,Bachelor's,79995,Manager,76
+DS-65688647-N,Female,Married,34,Master's,91864,Manager,75
+DS-23533842-N,Female,Widowed,36,Bachelor's,88033,White-Collar,85
+DS-98544811-N,Female,Widowed,35,Bachelor's,32210,Self-Employed,24
+DS-45203909-N,Male,Divorced,39,PhD,85286,Self-Employed,87
+DS-94574735-N,Female,Married,39,Master's,98988,White-Collar,78
+DS-15063084-N,Female,Single,41,Some College,19844,Blue-Collar,25
+DS-33362107-N,Male,Divorced,24,Bachelor's,35208,Student,87
+DS-18166222-N,Male,Single,39,Bachelor's,58379,Manager,46
+DS-57965203-N,Male,Married,30,Some College,75538,White-Collar,43
+DS-24056672-N,Male,Married,30,PhD,49135,Manager,45
+DS-12757090-N,Male,Single,22,Some College,21959,Self-Employed,23
+DS-99774317-N,Male,Married,38,Master's,90444,Manager,71
+DS-81094857-N,Male,Married,55,Some College,88845,Self-Employed,33
+DS-46761661-N,Female,Widowed,54,Bachelor's,89931,White-Collar,40
+DS-90055019-N,Female,Married,46,Bachelor's,113403,White-Collar,81
+DS-93639328-N,Male,Single,33,Some College,18791,Unemployed,36
+DS-87571961-N,Female,Married,40,High School,19235,White-Collar,31
+DS-76156070-N,Female,Married,34,Master's,45016,Blue-Collar,57
+DS-13306116-N,Female,Divorced,39,Bachelor's,102696,Manager,79
+DS-36651735-N,Female,Married,55,Bachelor's,85171,Blue-Collar,27
+DS-52348873-N,Male,Married,38,High School,67540,White-Collar,86
+DS-45351694-N,Male,Married,40,Bachelor's,83663,Self-Employed,86
+DS-66216516-N,Male,Single,41,Some College,89172,White-Collar,90
+DS-81257674-N,Female,Widowed,55,Some College,103615,Self-Employed,31
+DS-84918332-N,Male,Single,30,Bachelor's,33360,Unemployed,75
+DS-14126311-N,Female,Divorced,25,Bachelor's,26173,Unemployed,87
+DS-78527900-N,Female,Divorced,33,Some College,34596,Unemployed,80
+DS-59828861-N,Female,Divorced,22,Bachelor's,30874,Blue-Collar,86
+DS-31432555-N,Female,Divorced,29,Bachelor's,54587,Blue-Collar,57
+DS-36427697-N,Female,Divorced,41,Some College,117701,Self-Employed,87
+DS-85976084-N,Female,Married,27,Some College,55623,Blue-Collar,53
+DS-62249160-N,Male,Widowed,34,Master's,85754,Self-Employed,78
+DS-26775878-N,Female,Married,38,Bachelor's,39810,White-Collar,57
+DS-40604130-N,Female,Married,29,Bachelor's,53950,White-Collar,58
+DS-38452367-N,Female,Divorced,26,Bachelor's,62714,White-Collar,52
+DS-49410367-N,Female,Married,27,Bachelor's,51026,Manager,57
+DS-65225581-N,Male,Married,39,Master's,78414,Manager,80
+DS-41171164-N,Male,Single,24,PhD,39773,White-Collar,74
+DS-77290037-N,Male,Married,37,Some College,50034,White-Collar,40
+DS-81367162-N,Female,Married,45,Bachelor's,106908,Self-Employed,28
+DS-22361439-N,Female,Married,30,Some College,47028,White-Collar,52
+DS-49213257-N,Male,Single,31,Master's,50111,White-Collar,67
+DS-43012468-N,Female,Married,52,Some College,81475,White-Collar,32
+DS-31623017-N,Female,Married,43,Master's,86258,White-Collar,62
+DS-46082375-N,Female,Single,45,Master's,43002,Manager,58
+DS-25119519-N,Male,Married,45,PhD,103074,Self-Employed,90
+DS-12338224-N,Male,Widowed,38,PhD,10000,Self-Employed,14
+DS-58639460-N,Male,Married,51,Master's,64756,Blue-Collar,40
+DS-36711586-N,Male,Married,55,Some College,68979,Manager,17
+DS-57729462-N,Male,Married,27,Bachelor's,59278,White-Collar,34
+DS-42311810-N,Female,Single,41,High School,26311,White-Collar,9
+DS-45003518-N,Female,Divorced,25,Bachelor's,32053,Blue-Collar,80
+DS-66682555-N,Female,Widowed,40,Some College,93052,Self-Employed,82
+DS-67885776-N,Male,Single,25,Bachelor's,34478,Blue-Collar,58
+DS-90666302-N,Male,Married,68,Bachelor's,92681,Retired,35
+DS-10101309-N,Female,Single,30,Master's,25493,White-Collar,22
+DS-22672091-N,Female,Divorced,19,Bachelor's,36259,Blue-Collar,91
+DS-14148913-N,Male,Divorced,46,Bachelor's,20263,Blue-Collar,35
+DS-44662561-N,Male,Divorced,32,High School,39437,Blue-Collar,57
+DS-37709831-N,Male,Married,49,Some College,95644,White-Collar,36
+DS-42356601-N,Female,Divorced,23,Bachelor's,31921,Blue-Collar,92
+DS-49371603-N,Female,Divorced,30,Bachelor's,42100,Self-Employed,59
+DS-13275288-N,Female,Married,51,Some College,90159,White-Collar,79
+DS-76093538-N,Female,Single,30,Bachelor's,37043,Unemployed,48
+DS-83590783-N,Female,Divorced,27,Master's,32726,Self-Employed,53
+DS-13157377-N,Male,Divorced,25,Some College,36052,Student,81
+DS-84157001-N,Female,Married,25,High School,27269,White-Collar,27
+DS-40451013-N,Female,Divorced,22,Bachelor's,27915,Unemployed,61
+DS-76127275-N,Male,Married,38,Bachelor's,39288,Unemployed,62
+DS-85221553-N,Male,Single,25,Bachelor's,26100,Blue-Collar,21
+DS-87838757-N,Male,Widowed,60,Bachelor's,106118,Manager,36
+DS-41666786-N,Male,Married,30,Master's,35953,Manager,66
+DS-14573415-N,Female,Married,37,PhD,88604,White-Collar,91
+DS-29836364-N,Female,Divorced,26,Bachelor's,26036,Blue-Collar,95
+DS-93560670-N,Female,Married,48,Bachelor's,86960,White-Collar,88
+DS-89430283-N,Male,Single,34,Bachelor's,23107,Retired,33
+DS-43954725-N,Male,Divorced,19,Bachelor's,24919,Unemployed,93
+DS-23646498-N,Female,Divorced,34,Bachelor's,21463,Unemployed,32
+DS-34895350-N,Male,Married,35,Bachelor's,39177,Manager,52
+DS-81965176-N,Male,Married,45,Bachelor's,91602,White-Collar,74
+DS-87633997-N,Female,Widowed,69,Bachelor's,99287,Manager,29
+DS-14892612-N,Female,Divorced,29,Some College,25609,Unemployed,10
+DS-74518552-N,Female,Married,36,Master's,55819,Manager,34
+DS-56129478-N,Male,Single,37,Some College,33745,Student,15
+DS-38081966-N,Female,Married,38,Bachelor's,94444,Manager,78
+DS-30386379-N,Male,Married,46,Bachelor's,101707,White-Collar,35
+DS-65504193-N,Male,Widowed,49,High School,89941,Manager,34
+DS-89669041-N,Male,Divorced,25,Bachelor's,22658,Self-Employed,81
+DS-26391640-N,Male,Married,25,Bachelor's,71713,Blue-Collar,42
+DS-23860375-N,Male,Divorced,44,Bachelor's,81469,Manager,75
+DS-36470890-N,Male,Divorced,25,Some College,34088,White-Collar,78
+DS-31045883-N,Male,Married,43,Some College,134025,Manager,86
+DS-85709019-N,Female,Divorced,25,High School,45345,Blue-Collar,72
+DS-54234227-N,Female,Widowed,59,Some College,109373,Manager,20
+DS-90530017-N,Female,Divorced,42,Master's,79967,Self-Employed,87
+DS-97303397-N,Female,Widowed,34,High School,19710,Student,20
+DS-56388415-N,Male,Single,33,Bachelor's,12549,Blue-Collar,17
+DS-11528511-N,Female,Single,21,Bachelor's,24145,Manager,78
+DS-37214306-N,Male,Divorced,21,Bachelor's,31171,White-Collar,77
+DS-13378369-N,Female,Single,22,PhD,32399,Unemployed,63
+DS-76615322-N,Male,Single,22,Some College,43790,Unemployed,69
+DS-92601082-N,Female,Married,47,Master's,110528,White-Collar,67
+DS-27075657-N,Female,Married,58,High School,44592,Self-Employed,16
+DS-21768544-N,Male,Married,62,Master's,106770,White-Collar,22
+DS-44166303-N,Male,Single,48,Some College,94602,Self-Employed,74
+DS-63793656-N,Male,Married,33,PhD,61137,Self-Employed,55
+DS-94697948-N,Female,Married,35,High School,55827,Blue-Collar,52
+DS-72277579-N,Male,Married,32,Some College,56495,White-Collar,52
+DS-37876551-N,Female,Divorced,33,High School,19965,Unemployed,17
+DS-35791687-N,Female,Widowed,38,Bachelor's,21525,White-Collar,17
+DS-44477568-N,Male,Married,36,Master's,53583,Manager,63
+DS-36085858-N,Male,Married,38,High School,59032,Manager,42
+DS-29557610-N,Male,Married,56,Bachelor's,85833,White-Collar,16
+DS-61822454-N,Female,Divorced,43,Bachelor's,104506,Retired,85
+DS-70122948-N,Female,Divorced,38,Bachelor's,55130,Self-Employed,50
+DS-22091638-N,Female,Divorced,24,Some College,26279,Self-Employed,79
+DS-26796566-N,Female,Married,48,Some College,136394,Self-Employed,85
+DS-27258793-N,Male,Married,48,PhD,76346,Self-Employed,19
+DS-42831043-N,Female,Married,47,Bachelor's,89256,White-Collar,33
+DS-16123437-N,Female,Single,45,Bachelor's,14965,Self-Employed,27
+DS-60753874-N,Male,Single,22,Master's,30426,Student,95
+DS-62690475-N,Male,Married,48,Bachelor's,65000,Manager,87
+DS-48111842-N,Male,Married,25,Master's,52794,White-Collar,50
+DS-60161880-N,Female,Divorced,27,High School,43900,Manager,85
+DS-78115158-N,Female,Married,36,Bachelor's,127177,Manager,72
+DS-51132131-N,Male,Widowed,22,Some College,28848,White-Collar,12
+DS-13924421-N,Male,Divorced,19,PhD,40757,Unemployed,65
+DS-80427087-N,Female,Married,33,High School,59589,White-Collar,50
+DS-17725043-N,Male,Single,29,High School,21694,Student,12
+DS-36986787-N,Female,Divorced,43,Some College,11151,Blue-Collar,11
+DS-80981842-N,Male,Divorced,21,High School,27988,Student,75
+DS-46864900-N,Male,Married,48,Bachelor's,91197,White-Collar,41
+DS-57932077-N,Female,Married,29,Master's,61590,Manager,62
+DS-45147621-N,Male,Single,22,Some College,45527,Blue-Collar,51
+DS-24369722-N,Male,Divorced,22,Some College,17298,Self-Employed,16
+DS-70098154-N,Female,Divorced,34,High School,13916,Blue-Collar,19
+DS-27163688-N,Male,Single,28,Bachelor's,42738,Blue-Collar,89
+DS-42924870-N,Male,Divorced,61,Master's,83551,Retired,31
+DS-95575466-N,Male,Married,39,Master's,105294,Manager,82
+DS-91768579-N,Male,Single,28,High School,21964,White-Collar,20
+DS-53474386-N,Male,Single,45,Bachelor's,72453,Self-Employed,90
+DS-54620390-N,Female,Married,45,Bachelor's,41810,Self-Employed,52
+DS-62951847-N,Female,Divorced,60,Some College,82542,Blue-Collar,6
+DS-10372007-N,Female,Married,37,Master's,101899,Manager,76
+DS-68449327-N,Male,Married,45,Bachelor's,87009,Manager,72
+DS-68038183-N,Male,Widowed,42,Some College,23038,Blue-Collar,24
+DS-90466821-N,Female,Married,28,Master's,49589,Blue-Collar,59
+DS-38201644-N,Male,Married,27,Bachelor's,47331,White-Collar,52
+DS-39188898-N,Male,Single,26,Bachelor's,30970,Student,79
+DS-48784364-N,Male,Married,55,Bachelor's,96592,Blue-Collar,32
+DS-17404808-N,Male,Single,33,Master's,19677,Blue-Collar,22
+DS-70998523-N,Female,Divorced,60,Bachelor's,69082,Retired,32
+DS-97621155-N,Male,Single,22,Some College,19520,White-Collar,31
+DS-93544736-N,Female,Widowed,39,Master's,10000,White-Collar,16
+DS-14897671-N,Female,Married,37,Master's,108423,Manager,79
+DS-32312380-N,Male,Married,41,Bachelor's,53166,White-Collar,51
+DS-75535375-N,Male,Divorced,55,Some College,54699,White-Collar,28
+DS-94673728-N,Male,Divorced,25,PhD,48174,Student,91
+DS-89816571-N,Male,Widowed,40,Master's,66223,Blue-Collar,47
+DS-10857024-N,Female,Divorced,54,High School,95101,Manager,80
+DS-36600527-N,Male,Married,56,Some College,99313,Self-Employed,50
+DS-35868823-N,Male,Divorced,24,Bachelor's,33788,Self-Employed,78
+DS-71789056-N,Female,Single,41,Bachelor's,70352,White-Collar,80
+DS-20272601-N,Female,Married,32,Bachelor's,62114,White-Collar,70
+DS-95811902-N,Female,Single,23,Some College,36386,White-Collar,76
+DS-94862526-N,Female,Single,31,Bachelor's,22565,Blue-Collar,18
+DS-13093830-N,Male,Married,22,High School,19011,Self-Employed,25
+DS-74331953-N,Male,Married,40,Master's,65000,White-Collar,87
+DS-63139906-N,Male,Married,66,Master's,78883,Retired,37
+DS-10261106-N,Female,Divorced,33,High School,20366,Student,12
+DS-81083905-N,Male,Divorced,24,Some College,21282,White-Collar,64
+DS-54689114-N,Female,Married,28,Bachelor's,42807,Self-Employed,46
+DS-61211208-N,Male,Single,35,Some College,19017,Retired,19
+DS-97896783-N,Female,Married,49,Master's,86015,Manager,26
+DS-43728115-N,Female,Widowed,32,Bachelor's,21178,White-Collar,23
+DS-55424677-N,Male,Married,59,Bachelor's,60248,Manager,22
+DS-87403325-N,Female,Single,20,Bachelor's,33342,Unemployed,73
+DS-87092839-N,Male,Married,27,PhD,41599,White-Collar,56
+DS-35820476-N,Female,Married,40,Master's,106694,White-Collar,92
+DS-75958882-N,Female,Divorced,39,PhD,85798,Manager,79
+DS-82674321-N,Female,Married,34,High School,52286,Blue-Collar,39
+DS-94227545-N,Male,Married,61,Bachelor's,70364,Self-Employed,33
+DS-51295047-N,Female,Single,24,Some College,21607,Blue-Collar,60
+DS-89553868-N,Female,Divorced,48,Master's,102120,White-Collar,81
+DS-99441499-N,Female,Divorced,39,Master's,114215,Blue-Collar,82
+DS-34774155-N,Female,Divorced,28,Master's,65102,Manager,51
+DS-42842849-N,Female,Married,54,Master's,47229,Manager,30
+DS-43556398-N,Female,Married,33,Some College,47864,Self-Employed,33
+DS-41703541-N,Female,Married,32,Master's,106400,White-Collar,82
+DS-45556893-N,Male,Single,26,Some College,36196,White-Collar,76
+DS-94576996-N,Male,Married,72,Bachelor's,61734,White-Collar,24
+DS-25157502-N,Male,Married,41,PhD,88009,White-Collar,69
+DS-70271137-N,Male,Married,45,Master's,113058,Manager,80
+DS-14687989-N,Male,Divorced,26,Bachelor's,39151,Student,74
+DS-28849099-N,Female,Single,42,Bachelor's,82876,White-Collar,75
+DS-11764112-N,Female,Divorced,31,Some College,68511,Manager,64
+DS-90476302-N,Female,Married,31,Master's,38288,White-Collar,70
+DS-46077284-N,Male,Married,53,Some College,84035,Blue-Collar,35
+DS-46536309-N,Male,Married,36,Bachelor's,52951,White-Collar,52
+DS-57722073-N,Female,Single,27,Bachelor's,40694,Student,91
+DS-42214896-N,Female,Married,44,Master's,109810,Manager,81
+DS-73738731-N,Male,Widowed,49,Bachelor's,81969,Retired,41
+DS-88903109-N,Male,Single,28,High School,31378,Student,92
+DS-62773745-N,Female,Single,41,Bachelor's,76214,White-Collar,84
+DS-40966294-N,Female,Divorced,19,Bachelor's,48753,Blue-Collar,78
+DS-21336595-N,Male,Divorced,27,High School,31543,Blue-Collar,62
+DS-84177480-N,Female,Single,39,High School,24479,Student,22
+DS-51006337-N,Female,Married,46,High School,70559,Self-Employed,20
+DS-81892797-N,Male,Divorced,30,Bachelor's,26419,Student,63
+DS-96098236-N,Female,Married,57,Bachelor's,71870,Self-Employed,29
+DS-33615815-N,Female,Single,32,Some College,66282,Manager,43
+DS-94195190-N,Female,Divorced,25,Some College,40422,Self-Employed,68
+DS-36020723-N,Female,Single,39,High School,23608,White-Collar,23
+DS-32525947-N,Female,Married,35,Some College,38077,White-Collar,50
+DS-73172866-N,Male,Married,46,Bachelor's,86732,Self-Employed,75
+DS-43318631-N,Female,Divorced,30,High School,16539,Blue-Collar,23
+DS-54084365-N,Male,Married,25,Master's,62451,Self-Employed,53
+DS-14389906-N,Male,Single,62,PhD,59521,Self-Employed,25
+DS-15081798-N,Male,Married,29,Bachelor's,66659,White-Collar,35
+DS-29248713-N,Female,Divorced,26,Some College,39163,Unemployed,86
+DS-56809488-N,Female,Single,37,High School,17573,Blue-Collar,23
+DS-96329435-N,Female,Single,20,PhD,31487,Unemployed,87
+DS-94063708-N,Female,Divorced,30,High School,19643,Student,28
+DS-54158155-N,Female,Divorced,36,High School,31741,Unemployed,31
+DS-64458644-N,Female,Married,56,High School,64286,White-Collar,36
+DS-51911455-N,Female,Married,25,Some College,56072,White-Collar,48
+DS-17111081-N,Female,Married,36,Bachelor's,72665,Manager,62
+DS-11568863-N,Female,Widowed,22,Bachelor's,23053,Student,17
+DS-38499419-N,Female,Single,20,Bachelor's,41890,White-Collar,75
+DS-75475540-N,Male,Divorced,55,Bachelor's,77490,White-Collar,35
+DS-72655393-N,Male,Married,53,Master's,76678,Self-Employed,21
+DS-96445617-N,Female,Divorced,19,Master's,40687,Blue-Collar,91
+DS-63663374-N,Male,Widowed,61,Bachelor's,70823,Manager,28
+DS-54457948-N,Male,Married,59,PhD,78220,Manager,32
+DS-12887105-N,Female,Divorced,50,Some College,92938,Manager,89
+DS-15008442-N,Male,Single,41,High School,26364,Unemployed,13
+DS-12328419-N,Male,Married,31,Bachelor's,37060,White-Collar,46
+DS-58008081-N,Female,Married,37,Bachelor's,66598,White-Collar,46
+DS-75942826-N,Male,Divorced,30,High School,36385,White-Collar,71
+DS-80443953-N,Male,Divorced,23,Bachelor's,40805,Unemployed,55
+DS-76926636-N,Female,Married,42,Master's,83226,White-Collar,87
+DS-17789245-N,Female,Divorced,18,PhD,24393,Manager,91
+DS-20244200-N,Female,Divorced,21,High School,27429,Student,94
+DS-70636821-N,Male,Divorced,40,Bachelor's,24146,Unemployed,25
+DS-28353260-N,Female,Single,28,Some College,36780,Blue-Collar,81
+DS-67432058-N,Male,Single,22,Some College,24103,Unemployed,16
+DS-47315387-N,Male,Married,56,Some College,74964,White-Collar,35
+DS-50574837-N,Female,Single,33,Bachelor's,44307,White-Collar,61
+DS-81933641-N,Female,Married,35,Bachelor's,57205,White-Collar,39
+DS-34865451-N,Female,Single,27,Some College,30073,Blue-Collar,19
+DS-49240453-N,Female,Married,50,Some College,86567,Manager,80
+DS-93676069-N,Female,Married,47,Master's,83648,Blue-Collar,70
+DS-47988826-N,Male,Married,55,Some College,87871,White-Collar,29
+DS-33803044-N,Female,Divorced,33,Some College,57685,White-Collar,40
+DS-66559035-N,Female,Married,47,Bachelor's,74810,White-Collar,83
+DS-15446948-N,Female,Married,46,Some College,96131,Manager,69
+DS-87620779-N,Female,Married,38,Master's,35449,Self-Employed,48
+DS-38902498-N,Female,Married,53,High School,85259,Manager,26
+DS-71761841-N,Male,Married,40,PhD,97276,Self-Employed,75
+DS-70363987-N,Female,Widowed,60,High School,105764,Manager,38
+DS-11378752-N,Male,Single,26,High School,26998,White-Collar,94
+DS-83517060-N,Female,Married,32,Master's,60648,Self-Employed,68
+DS-45374615-N,Male,Single,64,High School,75776,Manager,28
+DS-83850269-N,Male,Divorced,32,High School,15259,Self-Employed,15
+DS-18189451-N,Male,Divorced,42,Bachelor's,68473,Manager,84
+DS-44810916-N,Female,Married,35,Master's,78712,White-Collar,87
+DS-60115114-N,Female,Single,38,Some College,16103,White-Collar,23
+DS-35456731-N,Male,Single,19,Bachelor's,26500,Student,89
+DS-77036365-N,Female,Single,50,Bachelor's,93805,Manager,85
+DS-96402908-N,Female,Married,68,Some College,91968,Manager,18
+DS-83945615-N,Female,Married,41,Bachelor's,21972,White-Collar,32
+DS-59488535-N,Male,Divorced,21,Some College,36566,Student,77
+DS-99909359-N,Male,Married,26,Bachelor's,68633,White-Collar,45
+DS-67314342-N,Female,Married,36,Master's,58255,White-Collar,70
+DS-21451747-N,Male,Divorced,23,Some College,42821,Blue-Collar,81
+DS-99278847-N,Female,Married,55,Bachelor's,61306,Self-Employed,11
+DS-71334299-N,Male,Married,35,Some College,51060,Unemployed,57
+DS-84391345-N,Female,Divorced,33,Bachelor's,56028,Manager,53
+DS-64906304-N,Male,Married,33,Master's,49890,White-Collar,30
+DS-18798351-N,Male,Single,38,Some College,19515,Unemployed,20
+DS-65242117-N,Male,Married,69,Bachelor's,97738,Retired,36
+DS-95466285-N,Female,Married,52,Master's,55141,White-Collar,31
+DS-97925402-N,Male,Single,39,High School,24223,Student,14
+DS-32958616-N,Male,Divorced,28,Some College,19075,Blue-Collar,17
+DS-76228812-N,Male,Married,39,High School,55145,White-Collar,39
+DS-43493687-N,Male,Single,30,Master's,92134,White-Collar,100
+DS-26132014-N,Female,Divorced,40,Bachelor's,17805,White-Collar,22
+DS-78601639-N,Male,Married,36,Bachelor's,72552,White-Collar,76
+DS-93267645-N,Male,Married,38,Master's,86065,Manager,92
+DS-66970001-N,Female,Married,36,Bachelor's,54364,White-Collar,37
+DS-92195745-N,Female,Single,25,High School,30149,White-Collar,86
+DS-73068190-N,Male,Single,49,High School,26215,Self-Employed,32
+DS-42754539-N,Female,Single,22,High School,22725,Self-Employed,29
+DS-92598929-N,Female,Married,41,Master's,80010,White-Collar,77
+DS-84005097-N,Female,Divorced,58,High School,95509,Manager,29
+DS-31787660-N,Female,Married,39,Master's,94708,Manager,79
+DS-73945576-N,Female,Married,37,Bachelor's,56514,White-Collar,54
+DS-63880349-N,Female,Married,43,Some College,98659,Manager,80
+DS-39265743-N,Female,Married,45,High School,90858,Retired,30
+DS-99197910-N,Male,Divorced,24,Master's,31784,White-Collar,69
+DS-95271667-N,Male,Single,61,Master's,52148,Blue-Collar,38
+DS-85784827-N,Female,Single,40,Some College,17070,Blue-Collar,19
+DS-56128779-N,Female,Married,51,Bachelor's,76484,Self-Employed,77
+DS-93792038-N,Male,Married,49,Bachelor's,83410,Manager,38
+DS-96602184-N,Female,Single,22,Bachelor's,45505,White-Collar,86
+DS-29258718-N,Male,Married,32,Bachelor's,55156,Blue-Collar,54
+DS-92403962-N,Male,Single,22,Some College,16121,White-Collar,77
+DS-95783822-N,Male,Single,41,Bachelor's,61230,White-Collar,54
+DS-32024405-N,Male,Married,41,Master's,94590,Manager,74
+DS-42841148-N,Female,Divorced,32,Master's,66839,Manager,55
+DS-12667542-N,Female,Divorced,27,Master's,28544,White-Collar,86
+DS-62357657-N,Female,Single,22,Some College,33700,Student,66
+DS-59571189-N,Female,Single,35,Some College,20482,Unemployed,21
+DS-98132547-N,Female,Married,49,Master's,118422,Blue-Collar,82
+DS-55300486-N,Female,Single,24,Some College,43445,Student,69
+DS-30684820-N,Male,Married,51,Master's,109974,Retired,78
+DS-96933555-N,Male,Married,42,Master's,107376,Self-Employed,75
+DS-64698881-N,Female,Married,48,Bachelor's,84730,Retired,88
+DS-82863109-N,Male,Married,45,Bachelor's,32505,Blue-Collar,58
+DS-15950684-N,Female,Single,41,PhD,22300,Self-Employed,25
+DS-46564611-N,Male,Married,50,Master's,75367,Blue-Collar,60
+DS-76466709-N,Male,Single,26,PhD,27526,Student,76
+DS-83408687-N,Female,Married,60,Some College,90271,Blue-Collar,37
+DS-32758801-N,Female,Married,29,Bachelor's,58826,Blue-Collar,63
+DS-15833072-N,Male,Divorced,36,Some College,16548,Student,13
+DS-52943127-N,Male,Single,20,Some College,27225,Blue-Collar,95
+DS-44785478-N,Male,Married,62,Master's,114941,Manager,19
+DS-56331553-N,Female,Married,26,Bachelor's,43744,White-Collar,41
+DS-88654793-N,Male,Married,48,Master's,114756,White-Collar,81
+DS-60012279-N,Female,Single,30,Some College,33256,Blue-Collar,83
+DS-39648518-N,Male,Married,35,PhD,122811,Self-Employed,91
+DS-77699480-N,Male,Single,38,High School,22197,Blue-Collar,9
+DS-10062489-N,Female,Single,26,High School,28177,Student,85
+DS-73000486-N,Female,Married,46,PhD,107736,Blue-Collar,79
+DS-13157296-N,Female,Single,42,High School,24634,Unemployed,20
+DS-32196073-N,Female,Married,28,Some College,49614,Blue-Collar,47
+DS-92957281-N,Male,Divorced,26,Bachelor's,34305,White-Collar,96
+DS-51045193-N,Female,Widowed,64,Some College,85051,Self-Employed,45
+DS-13207413-N,Female,Divorced,25,Bachelor's,63168,White-Collar,38
+DS-87484561-N,Male,Single,43,High School,21209,Self-Employed,45
+DS-82271849-N,Male,Married,45,Bachelor's,78216,White-Collar,21
+DS-38459075-N,Female,Single,39,PhD,16751,Blue-Collar,34
+DS-93777975-N,Female,Single,34,High School,18555,Self-Employed,23
+DS-89125190-N,Male,Married,59,Bachelor's,98423,Blue-Collar,29
+DS-53274793-N,Female,Married,46,PhD,91226,White-Collar,77
+DS-32931229-N,Male,Single,27,Some College,24006,Unemployed,68
+DS-45971022-N,Male,Single,37,Some College,12551,Self-Employed,40
+DS-84268347-N,Male,Single,22,High School,27796,White-Collar,30
+DS-14330948-N,Male,Divorced,36,High School,26248,Unemployed,28
+DS-89137534-N,Male,Married,39,Master's,100077,White-Collar,79
+DS-69919487-N,Male,Single,48,Bachelor's,22699,Blue-Collar,30
+DS-65815420-N,Female,Divorced,22,Master's,40022,Manager,93
+DS-86883358-N,Female,Married,47,High School,65093,White-Collar,84
+DS-28415642-N,Female,Married,45,Master's,102985,White-Collar,31
+DS-99299327-N,Male,Married,39,Bachelor's,62605,Self-Employed,34
+DS-16844658-N,Female,Divorced,37,High School,12022,Manager,11
+DS-37318812-N,Female,Widowed,57,Master's,90778,Blue-Collar,34
+DS-41962486-N,Male,Single,33,Some College,24632,Unemployed,17
+DS-42444934-N,Female,Married,41,Bachelor's,83791,White-Collar,62
+DS-75070459-N,Male,Single,25,Bachelor's,34648,Student,75
+DS-89035917-N,Male,Widowed,60,Bachelor's,61927,Self-Employed,27
+DS-29688426-N,Male,Single,32,Bachelor's,52828,White-Collar,52
+DS-15055397-N,Female,Single,24,Bachelor's,30471,Blue-Collar,84
+DS-62782423-N,Male,Single,22,High School,19643,White-Collar,5
+DS-19820125-N,Male,Married,27,Bachelor's,64259,White-Collar,51
+DS-48083226-N,Male,Married,37,Bachelor's,92256,Self-Employed,92
+DS-73953128-N,Female,Married,42,Bachelor's,102739,Manager,69
+DS-33884042-N,Female,Married,61,Master's,66891,White-Collar,49
+DS-13596536-N,Female,Single,23,Some College,27753,Student,72
+DS-27121993-N,Male,Widowed,57,Master's,81044,Manager,36
+DS-32056709-N,Male,Single,34,Some College,22912,Blue-Collar,15
+DS-66980998-N,Female,Married,54,Some College,27921,Unemployed,28
+DS-43209859-N,Female,Married,44,PhD,91381,Retired,87
+DS-60402439-N,Male,Married,44,Bachelor's,117261,Retired,84
+DS-58792658-N,Male,Divorced,40,High School,24107,White-Collar,24
+DS-11752522-N,Female,Married,36,Master's,92838,Self-Employed,72
+DS-68928051-N,Female,Divorced,46,Master's,65549,Blue-Collar,27
+DS-19829093-N,Female,Single,33,High School,27325,Blue-Collar,35
+DS-55251955-N,Female,Single,33,Bachelor's,32460,White-Collar,73
+DS-16877105-N,Female,Married,42,Bachelor's,102945,White-Collar,81
+DS-55302779-N,Female,Married,40,PhD,93071,White-Collar,66
+DS-46571939-N,Female,Divorced,23,High School,29411,Blue-Collar,64
+DS-52100707-N,Male,Married,32,Master's,55430,Manager,62
+DS-89389485-N,Female,Single,28,Bachelor's,35449,Blue-Collar,67
+DS-86814035-N,Female,Single,31,Bachelor's,106300,Manager,85
+DS-94919644-N,Male,Divorced,24,High School,28129,White-Collar,82
+DS-35060807-N,Male,Married,34,High School,45017,Manager,51
+DS-27400213-N,Female,Single,20,Some College,26287,White-Collar,60
+DS-86987068-N,Male,Married,36,Master's,64235,Blue-Collar,41
+DS-74914993-N,Female,Married,34,Bachelor's,50297,White-Collar,58
+DS-62717994-N,Female,Widowed,61,Master's,97127,Self-Employed,17
+DS-71072745-N,Female,Married,25,Bachelor's,66502,Manager,49
+DS-58350827-N,Male,Single,22,Some College,18889,Unemployed,27
+DS-96489109-N,Female,Single,48,PhD,118708,Self-Employed,73
+DS-77822152-N,Male,Married,66,PhD,58795,Manager,44
+DS-19206467-N,Male,Married,30,Some College,106218,White-Collar,73
+DS-16029495-N,Female,Widowed,48,High School,28558,White-Collar,12
+DS-44935353-N,Female,Married,48,High School,54851,Self-Employed,22
+DS-96769212-N,Male,Married,33,Some College,31957,Blue-Collar,48
+DS-69491228-N,Female,Single,21,Master's,39430,Student,80
+DS-16852111-N,Male,Widowed,35,High School,10398,Blue-Collar,29
+DS-13320540-N,Male,Married,61,High School,64489,White-Collar,28
+DS-40141220-N,Female,Single,36,Some College,46639,Self-Employed,55
+DS-90477249-N,Male,Married,53,Bachelor's,94090,White-Collar,76
+DS-91327998-N,Female,Widowed,70,Bachelor's,72625,White-Collar,35
+DS-16753298-N,Male,Divorced,30,High School,26335,Unemployed,99
+DS-32614905-N,Female,Divorced,35,Some College,113985,Manager,75
+DS-78894240-N,Male,Divorced,39,Master's,111331,White-Collar,97
+DS-42107530-N,Male,Single,25,Bachelor's,34032,Student,84
+DS-21834897-N,Female,Single,41,Some College,13920,Blue-Collar,24
+DS-16692108-N,Female,Single,66,Some College,71145,White-Collar,9
+DS-21221227-N,Female,Single,25,High School,31147,Unemployed,71
+DS-26405590-N,Female,Married,50,Bachelor's,102140,Self-Employed,18
+DS-95060944-N,Male,Married,30,PhD,108388,Manager,72
+DS-58776135-N,Female,Single,31,Some College,21586,Blue-Collar,24
+DS-66666000-N,Female,Married,61,Bachelor's,46343,White-Collar,16
+DS-44495208-N,Male,Single,21,Bachelor's,34755,Student,95
+DS-47657360-N,Female,Single,27,Bachelor's,23314,Unemployed,83
+DS-66642990-N,Male,Divorced,26,Some College,32793,Student,85
+DS-22679501-N,Male,Married,41,Master's,70773,White-Collar,91
+DS-65462136-N,Female,Married,54,High School,40000,Manager,48
+DS-22926946-N,Male,Married,29,High School,62070,Manager,70
+DS-91663308-N,Male,Single,24,Bachelor's,20707,Unemployed,75
+DS-67536397-N,Female,Married,36,Master's,52204,Manager,50
+DS-54635613-N,Male,Widowed,41,Bachelor's,81441,Manager,76
+DS-96454882-N,Female,Married,71,Bachelor's,78138,Retired,15
+DS-93102639-N,Male,Divorced,18,Some College,38007,Unemployed,80
+DS-63186488-N,Male,Divorced,20,Bachelor's,34196,Unemployed,83
+DS-56284957-N,Female,Single,45,High School,52693,Manager,63
+DS-92595091-N,Male,Married,53,Some College,76556,White-Collar,85
+DS-69379501-N,Male,Married,55,Bachelor's,84343,White-Collar,16
+DS-98475703-N,Female,Married,56,Bachelor's,116843,White-Collar,21
+DS-93986250-N,Female,Single,21,Bachelor's,47965,Student,77
+DS-73462008-N,Female,Single,28,Bachelor's,27720,Student,84
+DS-73821081-N,Male,Single,42,Some College,21339,Blue-Collar,17
+DS-59620573-N,Female,Married,30,Some College,36534,White-Collar,47
+DS-75920605-N,Female,Married,33,Bachelor's,72045,Blue-Collar,40
+DS-61504338-N,Female,Widowed,25,Some College,58316,White-Collar,41
+DS-12455930-N,Male,Married,35,Bachelor's,54426,Manager,38
+DS-24514490-N,Female,Married,35,High School,90253,White-Collar,91
+DS-15236048-N,Male,Single,34,High School,34327,Self-Employed,89
+DS-63090342-N,Male,Single,35,Bachelor's,24363,Unemployed,9
+DS-86586930-N,Male,Single,37,High School,56714,Blue-Collar,63
+DS-46332114-N,Female,Widowed,57,Some College,58726,Manager,32
+DS-57427345-N,Female,Married,62,Master's,121465,Retired,13
+DS-25897613-N,Female,Married,49,Bachelor's,96086,Self-Employed,36
+DS-53560635-N,Male,Single,41,Some College,17186,White-Collar,28
+DS-63699520-N,Male,Married,36,Bachelor's,35886,Unemployed,52
+DS-54570918-N,Male,Divorced,59,Bachelor's,64140,White-Collar,20
+DS-91523503-N,Female,Divorced,49,High School,60644,Self-Employed,44
+DS-38331038-N,Female,Widowed,54,PhD,77353,Manager,36
+DS-64361119-N,Male,Divorced,29,Some College,46658,White-Collar,30
+DS-66357135-N,Male,Single,27,High School,28634,Student,92
+DS-77043858-N,Female,Married,32,Bachelor's,39006,Manager,70
+DS-67265363-N,Male,Married,57,PhD,67584,Retired,23
+DS-69711689-N,Male,Single,23,Bachelor's,41748,Blue-Collar,89
+DS-17470059-N,Male,Married,60,Master's,63117,White-Collar,30
+DS-79929799-N,Male,Single,36,Some College,18962,Blue-Collar,18
+DS-48145102-N,Male,Divorced,20,Some College,38443,Student,64
+DS-87845149-N,Male,Single,35,Some College,35950,White-Collar,47
+DS-13671236-N,Female,Divorced,29,Some College,39580,Blue-Collar,77
+DS-15053416-N,Male,Single,21,Some College,47687,Unemployed,85
+DS-33903636-N,Male,Widowed,66,Master's,64218,Blue-Collar,45
+DS-81799610-N,Female,Married,43,Some College,85813,White-Collar,84
+DS-67876293-N,Female,Divorced,25,Some College,56365,White-Collar,52
+DS-29017486-N,Female,Married,37,Master's,51692,Blue-Collar,46
+DS-10202810-N,Female,Widowed,29,High School,31452,Manager,22
+DS-46550264-N,Female,Widowed,71,Bachelor's,96404,Blue-Collar,29
+DS-74508948-N,Male,Married,31,PhD,101129,Self-Employed,73
+DS-22910289-N,Female,Divorced,23,Some College,36522,Self-Employed,86
+DS-88972628-N,Female,Single,27,Some College,21824,Self-Employed,14
+DS-81616214-N,Male,Single,28,Some College,37369,Student,73
+DS-61785894-N,Female,Married,31,Bachelor's,68204,Manager,43
+DS-13720250-N,Male,Married,42,Some College,20566,Blue-Collar,28
+DS-24936130-N,Male,Single,42,Bachelor's,41984,Unemployed,33
+DS-46726715-N,Male,Married,58,Bachelor's,40000,White-Collar,26
+DS-58916318-N,Male,Married,52,Bachelor's,87639,White-Collar,40
+DS-51012856-N,Male,Widowed,32,Some College,61596,Self-Employed,62
+DS-74726822-N,Male,Married,35,Some College,25910,White-Collar,14
+DS-57401408-N,Male,Single,29,High School,23747,White-Collar,79
+DS-12421932-N,Male,Married,35,Bachelor's,71733,Blue-Collar,46
+DS-37656263-N,Female,Married,55,Master's,78393,White-Collar,27
+DS-73205468-N,Male,Single,45,High School,20998,Unemployed,24
+DS-76052601-N,Female,Married,28,PhD,23895,Blue-Collar,33
+DS-18849103-N,Male,Married,71,Master's,90017,Self-Employed,14
+DS-49151457-N,Female,Single,20,Some College,30719,Unemployed,63
+DS-92286185-N,Male,Single,20,Some College,35339,Student,69
+DS-50402467-N,Female,Single,23,Bachelor's,42723,Student,79
+DS-19112019-N,Male,Single,25,Master's,36792,Student,87
+DS-12664106-N,Male,Single,21,High School,37529,Student,93
+DS-48036195-N,Female,Married,47,Bachelor's,88688,Manager,61
+DS-58875766-N,Female,Divorced,51,PhD,115767,Manager,22
+DS-48778905-N,Female,Single,23,Some College,17075,Self-Employed,23
+DS-85000330-N,Female,Single,39,Some College,11019,Blue-Collar,20
+DS-45334646-N,Male,Married,40,PhD,103800,Manager,78
+DS-55488632-N,Female,Single,39,PhD,82058,White-Collar,87
+DS-98411155-N,Female,Married,26,Bachelor's,57328,White-Collar,45
+DS-79351202-N,Male,Widowed,52,PhD,69058,Retired,22
+DS-41369960-N,Male,Widowed,34,Some College,28012,Blue-Collar,12
+DS-82333921-N,Female,Married,41,Bachelor's,67239,White-Collar,50
+DS-55394873-N,Female,Single,33,Master's,68451,White-Collar,55
+DS-38687429-N,Female,Married,32,Bachelor's,48483,Self-Employed,30
+DS-14908992-N,Male,Married,34,High School,57494,White-Collar,48
+DS-47195115-N,Male,Married,27,Some College,23247,Blue-Collar,11
+DS-63680516-N,Female,Widowed,53,Master's,141648,Manager,86
+DS-98046847-N,Female,Single,30,Some College,26158,White-Collar,23
+DS-20467712-N,Male,Divorced,31,Bachelor's,25166,Blue-Collar,22
+DS-93802889-N,Male,Divorced,22,Some College,40401,Blue-Collar,50
+DS-41890389-N,Male,Divorced,32,High School,18359,Blue-Collar,25
+DS-86972197-N,Male,Divorced,24,Master's,24599,Blue-Collar,38
+DS-51831742-N,Female,Married,40,Master's,99330,White-Collar,84
+DS-85181563-N,Male,Married,45,Some College,64513,Manager,23
+DS-69468928-N,Male,Married,57,PhD,94868,Retired,23
+DS-15109510-N,Female,Single,29,High School,62469,White-Collar,52
+DS-65360975-N,Female,Divorced,20,Bachelor's,36370,Student,68
+DS-92719525-N,Female,Single,26,Bachelor's,38605,White-Collar,100
+DS-18100411-N,Male,Married,41,Bachelor's,92447,Self-Employed,78
+DS-85121304-N,Male,Married,70,Some College,115865,Manager,20
+DS-40972240-N,Female,Divorced,32,Some College,20297,Unemployed,26
+DS-22242407-N,Female,Single,45,Master's,16464,Blue-Collar,18
+DS-56752236-N,Male,Single,24,High School,46042,Blue-Collar,77
+DS-33492038-N,Male,Divorced,61,Bachelor's,55391,Manager,36
+DS-97812889-N,Male,Married,26,Master's,23293,White-Collar,23
+DS-61955434-N,Female,Single,39,Master's,95007,Self-Employed,86
+DS-41250826-N,Female,Single,41,Some College,11674,Blue-Collar,22
+DS-28092611-N,Male,Married,45,Bachelor's,72981,Retired,29
+DS-17657449-N,Female,Divorced,25,Bachelor's,23028,Unemployed,64
+DS-25384493-N,Female,Married,27,Bachelor's,55460,Self-Employed,41
+DS-52446906-N,Male,Divorced,18,Bachelor's,49618,Blue-Collar,76
+DS-40411897-N,Male,Divorced,54,Some College,86452,White-Collar,20
+DS-82668955-N,Female,Married,30,Bachelor's,118001,Blue-Collar,70
+DS-72392986-N,Male,Divorced,27,Master's,29007,Blue-Collar,78
+DS-76479130-N,Male,Divorced,24,Some College,24863,Blue-Collar,63
+DS-32569219-N,Male,Married,34,Some College,66675,White-Collar,44
+DS-93894751-N,Female,Married,25,Master's,45817,White-Collar,65
+DS-74297383-N,Male,Married,58,Master's,105388,Self-Employed,32
+DS-58582882-N,Male,Married,33,Master's,53757,White-Collar,49
+DS-15402706-N,Male,Single,18,Bachelor's,40223,Student,84
+DS-57818765-N,Female,Married,32,High School,57412,Blue-Collar,52
+DS-38692716-N,Female,Single,33,PhD,26931,White-Collar,15
+DS-45401069-N,Female,Single,30,Master's,31421,Blue-Collar,68
+DS-16435427-N,Female,Widowed,72,High School,108699,Retired,34
+DS-49778629-N,Female,Single,22,Bachelor's,25310,Blue-Collar,32
+DS-22320659-N,Male,Married,40,Bachelor's,85259,Manager,92
+DS-40511318-N,Male,Married,32,Bachelor's,58278,Self-Employed,61
+DS-67284768-N,Male,Married,37,Some College,17682,Blue-Collar,21
+DS-20943251-N,Male,Widowed,27,Some College,19912,Blue-Collar,25
+DS-62365014-N,Male,Married,42,Master's,88558,Manager,82
+DS-56010578-N,Male,Single,32,Some College,28456,White-Collar,25
+DS-78871734-N,Male,Married,31,Some College,55828,Manager,44
+DS-68807450-N,Female,Single,39,PhD,97556,White-Collar,83
+DS-28061455-N,Female,Married,45,Some College,78449,Self-Employed,64
+DS-20720374-N,Female,Married,25,Master's,63193,Self-Employed,56
+DS-28291991-N,Male,Married,28,Bachelor's,60181,Manager,46
+DS-88840541-N,Male,Married,66,Bachelor's,75340,Self-Employed,31
+DS-58120216-N,Male,Single,34,Some College,19007,Retired,13
+DS-85603013-N,Male,Widowed,61,Bachelor's,54812,White-Collar,31
+DS-52509676-N,Female,Single,25,High School,36165,Self-Employed,82
+DS-88583361-N,Male,Single,62,PhD,106397,White-Collar,16
+DS-72998918-N,Female,Single,25,Some College,41266,Unemployed,84
+DS-62382347-N,Female,Single,52,Some College,14881,Unemployed,5
+DS-54625625-N,Male,Married,53,High School,111299,Retired,24
+DS-77978986-N,Male,Widowed,48,PhD,111900,White-Collar,73
+DS-96593788-N,Female,Single,40,High School,23537,Self-Employed,14
+DS-37286770-N,Male,Divorced,23,High School,28719,White-Collar,78
+DS-88998568-N,Female,Married,41,Bachelor's,65400,White-Collar,44
+DS-23083997-N,Female,Married,64,Bachelor's,80929,Retired,30
+DS-12121652-N,Male,Single,30,Bachelor's,46738,Manager,45
+DS-36891723-N,Male,Single,31,Bachelor's,30631,Unemployed,14
+DS-70362452-N,Female,Single,46,Some College,102742,Manager,76
+DS-31624121-N,Female,Divorced,22,Bachelor's,32835,Blue-Collar,80
+DS-26066874-N,Male,Single,20,Some College,31889,Self-Employed,81
+DS-26067897-N,Male,Married,60,Some College,56123,White-Collar,38
+DS-61580463-N,Male,Married,25,Bachelor's,57008,Manager,53
+DS-57318422-N,Male,Divorced,22,High School,18849,Unemployed,28
+DS-95316441-N,Female,Married,37,Bachelor's,53238,Blue-Collar,52
+DS-12131614-N,Male,Single,34,Some College,23819,Unemployed,40
+DS-80528685-N,Female,Married,46,Master's,70755,Self-Employed,73
+DS-31923300-N,Male,Married,35,Bachelor's,109254,Manager,95
+DS-52507078-N,Female,Single,30,Some College,16217,Blue-Collar,29
+DS-37825449-N,Female,Married,65,Some College,76889,White-Collar,35
+DS-64121052-N,Female,Single,23,Some College,20527,Blue-Collar,77
+DS-27524100-N,Male,Married,52,High School,83182,White-Collar,22
+DS-92383533-N,Male,Married,56,Bachelor's,110122,Retired,41
+DS-97095470-N,Female,Married,39,Some College,25517,White-Collar,41
+DS-73327849-N,Female,Married,25,High School,67551,Manager,47
+DS-66394316-N,Male,Divorced,27,High School,67522,Manager,53
+DS-36427929-N,Female,Married,30,High School,59504,Unemployed,49
+DS-97670610-N,Male,Married,45,Bachelor's,69079,Retired,30
+DS-80381210-N,Female,Married,43,Bachelor's,85735,Retired,79
+DS-32608060-N,Female,Married,49,Some College,94737,Self-Employed,43
+DS-42977704-N,Male,Married,54,Some College,83199,Manager,32
+DS-81489620-N,Male,Single,19,High School,38315,Blue-Collar,68
+DS-94236335-N,Male,Single,18,Bachelor's,40322,Blue-Collar,85
+DS-38250382-N,Male,Single,29,Some College,22906,Self-Employed,26
+DS-58540561-N,Male,Married,25,Some College,30000,White-Collar,54
+DS-65334174-N,Female,Married,35,Master's,96628,Manager,81
+DS-43481391-N,Female,Married,48,Bachelor's,94935,White-Collar,36
+DS-20337777-N,Male,Single,38,Some College,22537,Blue-Collar,25
+DS-39929908-N,Male,Widowed,51,Bachelor's,81394,Manager,30
+DS-23215882-N,Female,Divorced,27,Master's,37425,Blue-Collar,87
+DS-23654085-N,Female,Single,32,High School,27147,White-Collar,29
+DS-55609159-N,Male,Divorced,26,Some College,29272,Student,98
+DS-93724382-N,Female,Married,41,Bachelor's,47329,White-Collar,45
+DS-10052481-N,Female,Single,27,High School,25517,Retired,10
+DS-38048945-N,Female,Divorced,46,Some College,87681,Self-Employed,99
+DS-10805441-N,Female,Divorced,29,Master's,49258,Unemployed,57
+DS-83269829-N,Female,Single,27,Some College,15237,Unemployed,7
+DS-41788227-N,Male,Married,47,Bachelor's,96227,Manager,81
+DS-35158798-N,Male,Married,28,Some College,59766,White-Collar,69
+DS-45856135-N,Female,Single,33,Bachelor's,48433,White-Collar,49
+DS-47373559-N,Male,Divorced,19,Some College,39958,White-Collar,80
+DS-28860757-N,Male,Married,42,Master's,94860,Manager,79
+DS-32409873-N,Female,Single,33,Some College,58896,White-Collar,30
+DS-65830665-N,Female,Divorced,26,High School,45729,Blue-Collar,76
+DS-16894294-N,Male,Married,44,Master's,104988,White-Collar,85
+DS-81224375-N,Female,Single,30,Some College,26502,Student,37
+DS-57962565-N,Female,Married,43,Bachelor's,115106,White-Collar,66
+DS-43574378-N,Male,Divorced,56,Bachelor's,90983,Manager,29
+DS-62232958-N,Female,Married,44,PhD,95967,White-Collar,66
+DS-32323126-N,Female,Single,29,Bachelor's,41080,Self-Employed,69
+DS-71757306-N,Female,Single,42,High School,23215,Unemployed,8
+DS-50641211-N,Female,Married,56,High School,50489,Manager,24
+DS-42107307-N,Female,Married,49,Some College,76437,Manager,48
+DS-21391362-N,Male,Single,22,Bachelor's,20413,Student,30
+DS-54940795-N,Male,Married,44,Bachelor's,94637,Self-Employed,74
+DS-19248815-N,Female,Married,43,Bachelor's,59308,Self-Employed,39
+DS-84959558-N,Female,Married,22,High School,28777,Blue-Collar,16
+DS-60372878-N,Female,Widowed,56,Master's,85579,Manager,27
+DS-50017882-N,Female,Married,40,PhD,118979,Manager,86
+DS-10255904-N,Male,Married,42,PhD,92039,Retired,80
+DS-35779219-N,Male,Single,44,High School,21581,Blue-Collar,11
+DS-68226909-N,Male,Single,26,Some College,42948,Unemployed,87
+DS-49047207-N,Male,Single,44,High School,22772,White-Collar,18
+DS-68149950-N,Female,Married,44,High School,54829,Blue-Collar,57
+DS-81044734-N,Female,Married,40,Some College,59473,Manager,46
+DS-84026699-N,Female,Single,30,Bachelor's,65216,Self-Employed,48
+DS-12545966-N,Male,Divorced,42,Bachelor's,19701,Unemployed,12
+DS-67871345-N,Female,Single,29,Bachelor's,39540,White-Collar,76
+DS-54715904-N,Male,Married,41,High School,92467,Retired,82
+DS-52147568-N,Male,Single,43,High School,26360,Self-Employed,19
+DS-27009491-N,Female,Divorced,29,Some College,36337,Self-Employed,78
+DS-93038495-N,Male,Married,60,Master's,83309,Manager,50
+DS-32408086-N,Male,Divorced,34,High School,23534,Blue-Collar,38
+DS-73729601-N,Female,Married,62,Bachelor's,57152,Manager,45
+DS-72524867-N,Female,Divorced,47,Master's,72726,White-Collar,61
+DS-75078318-N,Male,Married,38,High School,50925,Blue-Collar,61
+DS-75512923-N,Female,Married,42,Bachelor's,91627,Manager,76
+DS-58560938-N,Female,Married,31,Bachelor's,55766,White-Collar,46
+DS-72017437-N,Female,Divorced,26,Bachelor's,42760,Self-Employed,86
+DS-73403823-N,Male,Married,39,Bachelor's,99036,Self-Employed,79
+DS-31455034-N,Female,Widowed,55,High School,49330,Retired,18
+DS-89256346-N,Female,Single,43,Bachelor's,41021,Manager,64
+DS-93449564-N,Male,Married,61,PhD,86509,Self-Employed,45
+DS-78505770-N,Male,Single,28,Master's,41518,White-Collar,69
+DS-36814559-N,Male,Divorced,57,Master's,100238,Manager,24
+DS-74303242-N,Female,Single,34,High School,35414,Student,78
+DS-38694492-N,Female,Married,42,PhD,80403,White-Collar,91
+DS-12850400-N,Female,Divorced,41,Some College,14285,Unemployed,16
+DS-78987080-N,Male,Married,40,Master's,57189,Manager,43
+DS-96001546-N,Male,Single,22,High School,20058,Student,19
+DS-36394377-N,Male,Widowed,73,Bachelor's,68882,Retired,12
+DS-24042729-N,Male,Single,26,High School,24008,Self-Employed,70
+DS-16618197-N,Female,Married,31,Bachelor's,63986,Unemployed,52
+DS-96809744-N,Male,Married,27,High School,21123,Blue-Collar,26
+DS-56342695-N,Male,Single,36,Bachelor's,51081,White-Collar,41
+DS-41834465-N,Male,Married,45,Master's,124646,Retired,69
+DS-13770785-N,Female,Married,35,High School,15174,Self-Employed,28
+DS-52341956-N,Male,Married,45,Some College,104678,Self-Employed,86
+DS-84368167-N,Male,Widowed,62,Bachelor's,68563,White-Collar,16
+DS-55149536-N,Male,Married,44,Bachelor's,94270,Self-Employed,82
+DS-30901084-N,Female,Married,33,Bachelor's,62707,Manager,70
+DS-22862835-N,Male,Single,28,Some College,52078,White-Collar,91
+DS-76197237-N,Female,Widowed,53,Bachelor's,74815,Manager,42
+DS-61012499-N,Female,Single,50,High School,17260,Manager,14
+DS-36101383-N,Male,Divorced,32,High School,29341,White-Collar,69
+DS-89925387-N,Female,Married,34,PhD,97144,White-Collar,95
+DS-46758971-N,Male,Single,26,Bachelor's,31756,Self-Employed,73
+DS-99815052-N,Male,Single,41,High School,21734,Unemployed,17
+DS-60542311-N,Male,Married,50,Bachelor's,104776,Self-Employed,31
+DS-23280273-N,Male,Divorced,47,Master's,103628,White-Collar,86
+DS-31230647-N,Female,Single,43,Master's,126111,Manager,74
+DS-45612750-N,Male,Married,28,Bachelor's,62508,White-Collar,58
+DS-55915517-N,Male,Divorced,24,Bachelor's,25652,Self-Employed,81
+DS-51334859-N,Male,Married,43,PhD,101551,Manager,85
+DS-96740587-N,Female,Married,45,PhD,89049,Manager,5
+DS-56261574-N,Male,Divorced,23,PhD,31185,Manager,81
+DS-73910650-N,Female,Single,41,High School,19077,Blue-Collar,15
+DS-47256770-N,Female,Divorced,28,Bachelor's,30182,White-Collar,100
+DS-73651881-N,Male,Married,32,Some College,23850,Self-Employed,20
+DS-85175338-N,Female,Single,38,Bachelor's,20844,Retired,34
+DS-62537551-N,Female,Married,39,PhD,116787,White-Collar,84
+DS-44714013-N,Male,Divorced,26,Bachelor's,33578,Blue-Collar,81
+DS-26524743-N,Male,Divorced,19,Bachelor's,39990,Unemployed,75
+DS-29704694-N,Male,Single,22,Master's,42044,Self-Employed,72
+DS-30651850-N,Male,Married,33,Master's,90361,Self-Employed,75
+DS-85358835-N,Male,Married,28,Some College,35426,White-Collar,45
+DS-37727674-N,Female,Single,35,Master's,65000,White-Collar,85
+DS-14026588-N,Male,Widowed,52,Bachelor's,74421,Self-Employed,69
+DS-47904008-N,Male,Single,46,Master's,107907,Self-Employed,77
+DS-57061431-N,Male,Married,31,High School,45605,Self-Employed,63
+DS-94027307-N,Male,Married,55,PhD,93173,Retired,31
+DS-17361920-N,Male,Divorced,43,Bachelor's,67525,Unemployed,44
+DS-35987888-N,Male,Married,54,Some College,57407,Manager,26
+DS-28126387-N,Female,Married,28,Bachelor's,58668,White-Collar,44
+DS-27306686-N,Female,Married,42,Some College,24688,Blue-Collar,25
+DS-92418395-N,Female,Divorced,40,High School,19411,Blue-Collar,21
+DS-27400757-N,Male,Married,38,Bachelor's,65000,Manager,90
+DS-10948981-N,Male,Single,44,Bachelor's,23482,Blue-Collar,33
+DS-92543080-N,Female,Single,43,High School,24482,Manager,40
+DS-66099101-N,Female,Single,36,Some College,25959,Blue-Collar,16
+DS-41096355-N,Male,Married,31,High School,24704,Student,29
+DS-20709494-N,Male,Widowed,47,Master's,85741,White-Collar,77
+DS-55854041-N,Female,Married,26,Some College,39797,White-Collar,56
+DS-78039673-N,Female,Single,30,Some College,18943,Blue-Collar,21
+DS-36113551-N,Male,Single,18,Some College,44477,White-Collar,76
+DS-57700418-N,Male,Single,39,Some College,26197,Self-Employed,32
+DS-17086908-N,Male,Single,36,High School,42604,Blue-Collar,36
+DS-56363171-N,Female,Married,52,Bachelor's,79117,Retired,26
+DS-75391073-N,Female,Divorced,50,High School,91860,Self-Employed,76
+DS-17591203-N,Female,Married,37,Master's,38679,White-Collar,42
+DS-54189162-N,Female,Married,42,Master's,82663,Blue-Collar,90
+DS-40689842-N,Female,Widowed,38,High School,21712,Blue-Collar,31
+DS-58898347-N,Male,Married,41,Master's,57274,Unemployed,58
+DS-63633352-N,Female,Single,22,Master's,31586,Blue-Collar,73
+DS-35995682-N,Female,Married,54,Bachelor's,72594,Self-Employed,39
+DS-80787615-N,Female,Married,39,Bachelor's,52635,Blue-Collar,50
+DS-19229158-N,Female,Married,35,Master's,69120,Manager,45
+DS-32698709-N,Female,Married,45,Some College,95776,White-Collar,12
+DS-38609540-N,Female,Single,23,Bachelor's,36639,Blue-Collar,93
+DS-66085905-N,Female,Married,39,Bachelor's,45199,Manager,35
+DS-38043000-N,Male,Divorced,25,High School,36293,Student,69
+DS-98310528-N,Female,Divorced,26,High School,18961,Blue-Collar,20
+DS-47643047-N,Male,Married,30,Bachelor's,45488,White-Collar,48
+DS-62663800-N,Male,Widowed,31,Bachelor's,16506,Blue-Collar,34
+DS-97282592-N,Male,Single,48,Bachelor's,79762,White-Collar,82
+DS-98168086-N,Female,Single,37,High School,12252,Unemployed,18
+DS-35430318-N,Male,Married,46,Some College,86352,Retired,61
+DS-76517167-N,Male,Divorced,46,Master's,104230,Self-Employed,74
+DS-54521388-N,Female,Single,31,High School,26776,Student,21
+DS-15823524-N,Female,Divorced,43,PhD,89460,Manager,83
+DS-96029151-N,Male,Married,30,Bachelor's,98199,Self-Employed,82
+DS-60562701-N,Male,Divorced,23,Master's,26891,White-Collar,93
+DS-89387093-N,Male,Single,29,Bachelor's,33147,White-Collar,100
+DS-56733484-N,Female,Widowed,24,High School,17496,Unemployed,13
+DS-50728026-N,Female,Divorced,53,Bachelor's,90476,Self-Employed,30
+DS-77540339-N,Male,Single,23,Some College,39873,Student,96
+DS-50116565-N,Female,Single,21,PhD,35606,Blue-Collar,76
+DS-46175059-N,Male,Divorced,28,High School,19882,Unemployed,9
+DS-95230727-N,Female,Single,36,High School,16901,Blue-Collar,23
+DS-36518066-N,Female,Single,29,Some College,18335,Student,31
+DS-42093818-N,Female,Single,18,Bachelor's,45335,Student,91
+DS-95456639-N,Female,Married,43,Master's,84978,Blue-Collar,89
+DS-68456874-N,Female,Married,51,Master's,125091,Manager,98
+DS-52092745-N,Male,Single,39,Master's,105835,Manager,79
+DS-83646921-N,Male,Married,51,Some College,52118,Retired,30
+DS-25256722-N,Female,Divorced,29,Some College,14312,Self-Employed,20
+DS-27730936-N,Male,Widowed,53,Master's,70478,Retired,17
+DS-58702352-N,Male,Divorced,18,PhD,46875,Student,80
+DS-39680378-N,Male,Married,63,Some College,87467,Manager,32
+DS-42925894-N,Female,Married,37,Bachelor's,44487,Blue-Collar,30
+DS-54480252-N,Female,Single,25,Some College,39530,Student,73
+DS-81737915-N,Female,Married,61,Some College,102121,Manager,21
+DS-84758379-N,Male,Married,32,Bachelor's,59316,Blue-Collar,59
+DS-95170030-N,Male,Married,58,Bachelor's,78606,Blue-Collar,16
+DS-30455484-N,Female,Single,34,Bachelor's,20058,Self-Employed,21
+DS-83842443-N,Female,Married,32,High School,40957,White-Collar,50
+DS-47723243-N,Female,Divorced,52,Master's,77095,Self-Employed,89
+DS-33358078-N,Female,Divorced,21,Bachelor's,35331,White-Collar,69
+DS-32542504-N,Female,Single,32,Bachelor's,44357,Blue-Collar,51
+DS-32288669-N,Male,Married,59,Bachelor's,58361,Self-Employed,24
+DS-93324807-N,Female,Divorced,26,Bachelor's,38918,White-Collar,88
+DS-72168734-N,Male,Single,25,Some College,28812,Unemployed,79
+DS-54788416-N,Female,Married,62,High School,67275,Retired,36
+DS-16758482-N,Male,Divorced,43,Bachelor's,17603,Unemployed,25
+DS-95891881-N,Female,Single,34,Bachelor's,59174,White-Collar,63
+DS-11755852-N,Female,Married,32,Bachelor's,46543,Self-Employed,51
+DS-20845989-N,Male,Married,45,Bachelor's,87825,White-Collar,32
+DS-18807912-N,Male,Married,28,PhD,71845,White-Collar,60
+DS-80066990-N,Female,Married,25,Bachelor's,67445,Blue-Collar,70
+DS-91827735-N,Female,Married,25,Bachelor's,73884,Manager,50
+DS-59847893-N,Female,Divorced,28,High School,52688,Blue-Collar,72
+DS-31478638-N,Female,Widowed,42,Some College,25230,Blue-Collar,5
+DS-25994232-N,Male,Single,26,Bachelor's,36567,White-Collar,91
+DS-67973824-N,Female,Widowed,22,Some College,26290,White-Collar,14
+DS-55085010-N,Male,Married,32,Master's,67952,Self-Employed,69
+DS-17697973-N,Male,Married,38,PhD,118005,Self-Employed,77
+DS-14624879-N,Male,Single,34,Bachelor's,16065,Retired,31
+DS-93205390-N,Female,Single,28,High School,45785,Manager,46
+DS-75712606-N,Male,Single,36,Bachelor's,44544,Self-Employed,51
+DS-58658414-N,Female,Married,45,Master's,52418,Manager,57
+DS-56227702-N,Male,Single,28,Bachelor's,65921,White-Collar,46
+DS-79162348-N,Male,Single,42,Some College,19924,Unemployed,28
+DS-82888970-N,Male,Married,59,Bachelor's,77907,Manager,30
+DS-83147034-N,Male,Married,54,Bachelor's,71369,Manager,30
+DS-36129490-N,Female,Married,33,Bachelor's,97471,White-Collar,82
+DS-22348442-N,Female,Single,20,Bachelor's,25320,Blue-Collar,87
+DS-78464054-N,Male,Married,29,Bachelor's,64678,Blue-Collar,61
+DS-90073736-N,Female,Single,28,Bachelor's,26116,Unemployed,24
+DS-22577874-N,Female,Married,41,Bachelor's,16799,Retired,39
+DS-40452975-N,Female,Married,59,Bachelor's,88994,Self-Employed,32
+DS-96152974-N,Female,Married,66,High School,64766,White-Collar,33
+DS-72639137-N,Female,Single,38,Bachelor's,27348,Blue-Collar,11
+DS-11677461-N,Male,Married,40,PhD,99238,Self-Employed,80
+DS-26651348-N,Female,Widowed,67,PhD,66635,White-Collar,23
+DS-65168896-N,Male,Divorced,31,Some College,25969,Unemployed,19
+DS-99644103-N,Female,Married,41,Some College,83826,Manager,76
+DS-93842996-N,Female,Single,37,Some College,17510,Unemployed,17
+DS-66468991-N,Female,Married,35,High School,51812,Manager,41
+DS-34405771-N,Male,Divorced,22,Master's,35794,Student,84
+DS-10458721-N,Female,Married,25,Bachelor's,49819,White-Collar,48
+DS-96694055-N,Male,Married,45,Master's,108234,Manager,78
+DS-86150063-N,Male,Married,39,Some College,18000,White-Collar,5
+DS-28114211-N,Male,Single,22,Bachelor's,29384,Unemployed,76
+DS-64055670-N,Male,Divorced,47,PhD,83406,Self-Employed,85
+DS-42657094-N,Male,Married,32,Bachelor's,60667,White-Collar,45
+DS-24735430-N,Male,Divorced,42,Bachelor's,21702,Blue-Collar,38
+DS-13537803-N,Female,Married,36,Master's,49548,Self-Employed,70
+DS-94056738-N,Male,Divorced,21,PhD,25738,Manager,94
+DS-85644397-N,Male,Married,46,High School,24243,White-Collar,30
+DS-81695960-N,Male,Married,49,Bachelor's,80988,White-Collar,20
+DS-92869600-N,Male,Married,54,PhD,67497,White-Collar,16
+DS-18708197-N,Male,Widowed,67,Some College,67061,Manager,35
+DS-19693632-N,Female,Divorced,30,Some College,51705,White-Collar,68
+DS-53771796-N,Female,Single,55,Some College,21478,Unemployed,25
+DS-85638364-N,Female,Single,39,High School,31283,Unemployed,17
+DS-56644955-N,Female,Single,27,Bachelor's,16920,Unemployed,9
+DS-65991030-N,Male,Married,56,Bachelor's,75388,White-Collar,25
+DS-26330916-N,Male,Married,49,Master's,78934,Manager,87
+DS-61278153-N,Male,Single,51,Bachelor's,87667,Manager,73
+DS-17515848-N,Male,Married,35,Bachelor's,47657,Manager,50
+DS-30823745-N,Female,Single,35,High School,20451,White-Collar,32
+DS-86784874-N,Female,Single,26,Bachelor's,22631,Self-Employed,13
+DS-56191807-N,Male,Married,43,Master's,97857,Retired,87
+DS-74936169-N,Female,Married,66,Some College,105854,Manager,25
+DS-22971991-N,Female,Divorced,28,Master's,51528,Blue-Collar,59
+DS-90966548-N,Female,Single,28,Some College,28354,Student,100
+DS-94657806-N,Male,Single,30,High School,23663,White-Collar,30
+DS-41531002-N,Male,Divorced,31,Some College,38316,Student,66
+DS-54356290-N,Male,Single,21,Bachelor's,43323,Student,92
+DS-71251987-N,Male,Married,27,Bachelor's,55478,White-Collar,46
+DS-46931572-N,Male,Single,37,Master's,68994,White-Collar,45
+DS-17905547-N,Male,Married,35,PhD,63438,Manager,55
+DS-43896580-N,Female,Single,37,Bachelor's,16214,Unemployed,10
+DS-28078562-N,Female,Married,52,Bachelor's,80682,Retired,34
+DS-70384061-N,Female,Married,39,High School,19848,White-Collar,8
+DS-78928677-N,Female,Single,31,High School,32987,Self-Employed,32
+DS-17737099-N,Female,Married,45,High School,78549,Manager,19
+DS-59478497-N,Male,Single,20,PhD,25113,Blue-Collar,92
+DS-45880641-N,Female,Single,24,Some College,35765,White-Collar,85
+DS-39894991-N,Female,Single,37,Bachelor's,58268,Self-Employed,38
+DS-76108186-N,Male,Married,43,PhD,87625,Blue-Collar,88
+DS-16966981-N,Female,Divorced,32,Bachelor's,40025,Self-Employed,65
+DS-92116256-N,Male,Married,40,Bachelor's,88561,Self-Employed,86
+DS-71421682-N,Male,Single,29,High School,41003,Blue-Collar,76
+DS-39459633-N,Male,Single,30,High School,23645,Blue-Collar,33
+DS-23664138-N,Male,Single,46,Master's,78624,Self-Employed,78
+DS-19050041-N,Male,Married,52,Master's,67570,Manager,18
+DS-53012514-N,Male,Married,37,Some College,55007,Self-Employed,58
+DS-39578669-N,Female,Married,41,Bachelor's,126495,White-Collar,80
+DS-76450973-N,Female,Single,29,Master's,59573,Manager,70
+DS-75698392-N,Male,Married,49,PhD,85853,Self-Employed,80
+DS-52773226-N,Male,Married,25,Master's,75421,White-Collar,53
+DS-92418109-N,Male,Married,32,Master's,98806,White-Collar,85
+DS-26476885-N,Male,Widowed,36,Bachelor's,104575,Blue-Collar,79
+DS-83460667-N,Male,Married,33,Bachelor's,70154,White-Collar,55
+DS-60225707-N,Male,Widowed,31,Bachelor's,21684,White-Collar,25
+DS-48176568-N,Female,Single,35,Some College,104994,Manager,85
+DS-54708365-N,Female,Widowed,41,PhD,116341,White-Collar,89
+DS-52933211-N,Female,Widowed,64,Bachelor's,61414,Blue-Collar,31
+DS-34296300-N,Female,Divorced,24,Bachelor's,23405,Unemployed,5
+DS-90994784-N,Female,Single,47,PhD,113541,Manager,82
+DS-78184800-N,Female,Divorced,33,Some College,25133,Blue-Collar,22
+DS-56409064-N,Male,Married,50,Bachelor's,71899,Self-Employed,40
+DS-66560496-N,Male,Married,51,High School,77791,Manager,28
+DS-73355189-N,Male,Married,30,Bachelor's,42851,White-Collar,30
+DS-74836293-N,Male,Married,42,Some College,58929,Manager,67
+DS-70937606-N,Male,Divorced,43,High School,26307,Blue-Collar,24
+DS-57502789-N,Female,Married,35,Some College,54132,Self-Employed,64
+DS-50785201-N,Female,Married,45,Bachelor's,92828,Retired,9
+DS-76504448-N,Male,Single,27,High School,17815,Self-Employed,20
+DS-24507704-N,Male,Married,40,Some College,103017,Manager,89
+DS-84390788-N,Female,Single,25,Some College,59469,White-Collar,45
+DS-64152494-N,Male,Single,26,Bachelor's,54241,Manager,35
+DS-36924171-N,Female,Married,63,Some College,96207,Blue-Collar,32
+DS-19840179-N,Male,Married,47,Master's,90645,White-Collar,84
+DS-85213141-N,Male,Divorced,28,Bachelor's,31429,Blue-Collar,75
+DS-47908865-N,Female,Single,22,Master's,43868,Student,70
+DS-82067645-N,Female,Divorced,30,Master's,59793,White-Collar,30
+DS-26005491-N,Male,Widowed,52,Some College,68510,Manager,19
+DS-28701030-N,Male,Single,41,Some College,22399,Self-Employed,32
+DS-92981168-N,Female,Single,23,Bachelor's,32892,Student,63
+DS-19168818-N,Male,Married,29,PhD,51134,Self-Employed,45
+DS-83881278-N,Male,Single,22,Some College,21916,Self-Employed,21
+DS-79045094-N,Female,Divorced,38,Bachelor's,110449,Self-Employed,79
+DS-31653591-N,Male,Divorced,20,Bachelor's,41106,White-Collar,79
+DS-89670087-N,Female,Single,22,Bachelor's,37318,Blue-Collar,87
+DS-99806884-N,Female,Divorced,25,PhD,36567,Self-Employed,70
+DS-13024703-N,Female,Single,22,Some College,24401,Blue-Collar,12
+DS-26440737-N,Male,Single,35,Bachelor's,27351,White-Collar,33
